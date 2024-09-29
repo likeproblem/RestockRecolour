@@ -1,0 +1,12 @@
+// recolour template //
+@PART[$PART$]:FOR[999_TU_$MOD$_Recolour_000]:NEEDS[TexturesUnlimited&$MOD$]
+{
+    @MODULE[KSPTextureSwitch],0
+    {
+        textureSet = $MOD$_$PART$_Paint
+    }
+    %MODULE[SSTURecolorGUI]
+    {
+        %name = SSTURecolorGUI
+    }
+}

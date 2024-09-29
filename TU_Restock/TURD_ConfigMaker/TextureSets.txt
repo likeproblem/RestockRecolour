@@ -1,9 +1,8 @@
-//CREATED USING TURD_ConfigMaker
 // texture sets that are copied to create the default and recolour texture sets //
 
-KSP_TEXTURE_SET:NEEDS[TexturesUnlimited&Restock]
+KSP_TEXTURE_SET:NEEDS[TexturesUnlimited&$MOD$]
 {
-    name = Restock_Default
+    name = $MOD$_Default
     title = Squad
     recolorable = false
 
@@ -42,9 +41,9 @@ KSP_COLOR_PRESET:NEEDS[TexturesUnlimited]
     metallic = 0
 }
 
-KSP_TEXTURE_SET:NEEDS[TexturesUnlimited&Restock]
+KSP_TEXTURE_SET:NEEDS[TexturesUnlimited&$MOD$]
 {
-    name = Restock_Paint
+    name = $MOD$_Paint
     title = Bob Ross Paints
     recolorable = true
     

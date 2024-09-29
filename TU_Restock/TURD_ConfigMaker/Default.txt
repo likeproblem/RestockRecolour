@@ -1,0 +1,11 @@
+// default texture template //
+@PART[$PART$]:FOR[000_TU_$MOD$_000]:NEEDS[TexturesUnlimited&$MOD$]
+{
+    MODULE
+    {
+        name = KSPTextureSwitch
+        sectionName = Appearance
+        currentTextureSet = $MOD$_$PART$_Default
+        textureSet = $MOD$_$PART$_Default
+    }
+}

@@ -1,0 +1,11 @@
+MOD;Mod Name;Restock
+PART;Part you want to add;PART_PLACEHOLDER
+TEXTURE;Texture;TEXTURE_PLACEHOLDER
+TEXTURE_BUMPMAP;BumpMap Texture;TU_$MOD$/Default/DefaultBump
+TEXTURE_EMISSIVE;Emissive Texture;TU_$MOD$/Default/DefaultEmis
+TEXTURE_GLOSS;Metallic Gloss Map Texture;TU_$MOD$/Default/DefaultSpec
+TEXTURE_MASK;Recolour Mask Texture;TU_$MOD$/Default/DefaultPaint
+SHININESS;Shininess;0.4
+NORM_DIFFUSE;Diffuse Normalization(aka how bright/dark each section);0.75,0.75,0.75
+NORM_METAL;Metal Normalization;0.55,0.55,0.55
+NORM_SMOOTHNESS;Smoothness Normalization;0.55,0.55,0.55

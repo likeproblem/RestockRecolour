@@ -1,0 +1,18 @@
++KSP_TEXTURE_SET[$MOD$_Paint]:NEEDS[TexturesUnlimited&$MOD$]
+{
+    @name = $MOD$_$PART$_Paint
+    @MATERIAL
+    {
+		$mesh$
+	
+        vector = _DiffuseNorm,$NORM_DIFFUSE$
+        vector = _MetalNorm,$NORM_METAL$
+        vector = _SmoothnessNorm,$NORM_SMOOTHNESS$
+        
+        texture = _MainTex,$TEXTURE$
+        texture = _BumpMap,$TEXTURE_BUMPMAP$
+        texture = _Emissive,$TEXTURE_EMISSIVE$
+        texture = _MetallicGlossMap,$TEXTURE_GLOSS$
+        texture = _MaskTex,$TEXTURE_MASK$
+    }
+}

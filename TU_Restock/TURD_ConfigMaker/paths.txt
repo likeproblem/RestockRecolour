@@ -1,0 +1,10 @@
+config.txt
+autodefault.txt
+TextureSets.txt
+Default.txt
+DefaultMulti.txt
+Recolour.txt
+RecolourMulti.txt
+../TU_$MOD$_TextureSets.cfg
+../TU_$MOD$_Default.cfg
+../TU_$MOD$_Recolour.cfg
