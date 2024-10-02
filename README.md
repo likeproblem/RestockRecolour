@@ -4,6 +4,11 @@
 # HOWTO INSRALL
 Download source, grab inside TU_Restock(without license or readme, 3 folders and 3 txts), and put into GameData(no no TURD!)
 
+# Honorable Mentions:
+* OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk3-1pod design
+* ZZetho for creating amazing tutorial
+* And of course TURD, TU and Restock
+
 # Parts Done:
 <details>
 <summary>Command</summary>
