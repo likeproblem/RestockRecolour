@@ -8,3 +8,24 @@
 * MK1-3 Command Pod
 
 </details>
+<details>
+<summary>Fuel Tanks</summary>
+  
+* 2.5m Rockomax medium tank
+
+</details>
+<details>
+<summary>Engine</summary>
+  
+* Vector(SSME)
+
+</details>
+<details>
+<summary>Aero</summary>
+  
+* Small 1.25m stubby cone(idk name, also what the hell restock its not in structural)
+
+</details>
+
+# TODO
+* Vector: shroud, maybe color machinery(god how much is there)
