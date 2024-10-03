@@ -8,6 +8,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 * OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk3-1pod design
 * ZZetho for creating amazing tutorial
 * And of course TURD, TU and Restock
+* (pss, and my config maker too, very handy)
 
 # Parts Done:
 
