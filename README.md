@@ -34,7 +34,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 1/?
   
-* Vector(SSME)
+* Vector(SSME) now featuring shroud :)
 
 </details>
 <details>
@@ -47,4 +47,4 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 </details>
 
 # TODO
-* Vector: shroud, maybe color machinery(god how much is there)
+* ~~Vector: shroud, maybe color machinery(god how much is there)~~
