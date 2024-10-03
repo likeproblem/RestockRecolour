@@ -5,7 +5,7 @@
 Download source, grab inside TU_Restock(without license or readme, 3 folders and 3 txts), and put into GameData(no no TURD!)
 
 # Honorable Mentions:
-* OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk3-1pod design
+* OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk1-3pod design
 * ZZetho for creating amazing tutorial
 * And of course TURD, TU and Restock
 * (pss, and my config maker too, very handy)
@@ -48,4 +48,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 </details>
 
 # TODO
-* ~~Vector: shroud, maybe color machinery(god how much is there)~~
+* Vector: those pesky connectors for tubes, also grey base for 25m shrouds(maybe)
+* Proper wiki for contributing, explain TURD_ConfigMaker, video too
+* Submodule for ConfigMaker
+* 25m decoupler, 1.25m parachute
