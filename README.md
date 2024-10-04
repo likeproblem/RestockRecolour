@@ -13,7 +13,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 4/?
+### 6/?
 
 <details>
 <summary>Command</summary>
@@ -32,7 +32,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 </details>
 <details>
-<summary>Engine</summary>
+<summary>Engines</summary>
 
 1/?
   
@@ -40,11 +40,27 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 </details>
 <details>
-<summary>Aero</summary>
+<summary>Coupling</summary>
+
+1/?
+  
+* 2.5m decoupler
+
+</details>
+<details>
+<summary>Aerodynamics</summary>
 
 1/?
   
 * Small 1.25m stubby cone(idk name, also what the hell restock its not in structural)
+
+</details>
+<details>
+<summary>Utility</summary>
+
+1/?
+  
+* 1.25m parachute
 
 </details>
 
@@ -55,6 +71,5 @@ If you are a typical user, and would like to suggest/report issue/something you 
 If you are a contributor(or wants to be), refer to guidelines and tutorial(non-existant), fork rep., and pull request!
 
 # TODO
-* Vector: those pesky connectors for tubes, also grey base for 25m shrouds(maybe)
 * Proper wiki for contributing, explain TURD_ConfigMaker, video too
 * Submodule for ConfigMaker
