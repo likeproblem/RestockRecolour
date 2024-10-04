@@ -48,8 +48,13 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 </details>
 
+# Contribution!
+
+If you are a typical user, and would like to suggest/report issue/something you don't like, don't hesitate and go ahead create post in discussions! I am more than happy to help you, even if you want different coloring, I can try to create you an alternate mask!
+
+If you are a contributor(or wants to be), refer to guidelines and tutorial(non-existant), fork rep., and pull request!
+
 # TODO
 * Vector: those pesky connectors for tubes, also grey base for 25m shrouds(maybe)
 * Proper wiki for contributing, explain TURD_ConfigMaker, video too
 * Submodule for ConfigMaker
-* 25m decoupler, 1.25m parachute
