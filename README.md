@@ -13,14 +13,17 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 6/?
+### 11/398
 
 <details>
 <summary>Command</summary>
 
- 1/?
+ 4/?
   
 * MK1-3 Command Pod
+* KV1 Pod
+* KV2 Pod
+* KV3 Pod
 
 </details>
 <details>
@@ -42,9 +45,10 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Coupling</summary>
 
-1/?
+2/?
   
 * 2.5m decoupler
+* Shielded docking port(WIP, the docking port is messed up, but colored)
 
 </details>
 <details>
@@ -53,6 +57,14 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 1/?
   
 * Small 1.25m stubby cone(idk name, also what the hell restock its not in structural)
+
+</details>
+<details>
+<summary>Thermal</summary>
+
+1/?
+  
+* 2.5m heatshield
 
 </details>
 <details>
@@ -73,3 +85,5 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 # TODO
 * Proper wiki for contributing, explain TURD_ConfigMaker, video too
 * Submodule for ConfigMaker
+* Fix shielded docking port
+* Per part album for each category
