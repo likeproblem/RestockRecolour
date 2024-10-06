@@ -64,7 +64,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 1/? [album](https://imgur.com/a/65ZpHD8)
   
-* 2.5m heatshield
+* 2.5m heatshield(defaults to black variant, since brown texture aint inside texture, you can recolour anyways lol)
 
 </details>
 <details>
