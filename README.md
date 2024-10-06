@@ -18,7 +18,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Command</summary>
 
- 4/?
+ 4/? [album](https://imgur.com/a/qKnU0Tc)
   
 * MK1-3 Command Pod
 * KV1 Pod
@@ -29,7 +29,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Fuel Tanks</summary>
 
-1/?
+1/? [album](https://imgur.com/a/3gXVMj4)
   
 * 2.5m Rockomax medium tank
 
@@ -37,7 +37,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Engines</summary>
 
-1/?
+1/? [album](https://imgur.com/a/iimZZ1O)
   
 * Vector(SSME) now featuring shroud :)
 
@@ -45,7 +45,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Coupling</summary>
 
-2/?
+2/? [album](https://imgur.com/a/WeIMzri)
   
 * 2.5m decoupler
 * Shielded docking port(WIP, the docking port is messed up, but colored)
@@ -54,7 +54,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Aerodynamics</summary>
 
-1/?
+1/? [album](https://imgur.com/a/OUj7zRc)
   
 * Small 1.25m stubby cone(idk name, also what the hell restock its not in structural)
 
@@ -62,7 +62,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Thermal</summary>
 
-1/?
+1/? [album](https://imgur.com/a/65ZpHD8)
   
 * 2.5m heatshield
 
@@ -70,7 +70,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Utility</summary>
 
-1/?
+1/? [album](https://imgur.com/a/4KpWiSE)
   
 * 1.25m parachute
 
