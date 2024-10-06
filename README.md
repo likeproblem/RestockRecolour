@@ -86,4 +86,4 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Proper wiki for contributing, explain TURD_ConfigMaker, video too
 * Submodule for ConfigMaker
 * Fix shielded docking port
-* Per part album for each category
+* Tidy up configs for proper organization
