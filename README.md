@@ -31,7 +31,10 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 1/? [album](https://imgur.com/a/3gXVMj4)
   
+* 2.5m Rockomax long tank
 * 2.5m Rockomax medium tank
+* 2.5m Rockomax small tank
+* 2.5m Rockomax tiny tank
 
 </details>
 <details>
