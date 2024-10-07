@@ -3,7 +3,7 @@
 ![](https://imgur.com/cZjJAZO.jpg)
 [album](https://imgur.com/a/BK4bnBF)
 # HOWTO INSTALL
-Download source, grab inside TU_Restock(without license or readme, 3 folders and 3 txts), and put into GameData(no no TURD!)
+Download source, grab inside TU_Restock(without license or readme, 3 folders and 4 txts), and put into GameData(no no TURD!)
 
 # Honorable Mentions:
 * OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk1-3pod design
@@ -13,7 +13,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 11/398
+### 14/398
 
 <details>
 <summary>Command</summary>
@@ -29,7 +29,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Fuel Tanks</summary>
 
-1/? [album](https://imgur.com/a/3gXVMj4)
+4/? [album](https://imgur.com/a/3gXVMj4)
   
 * 2.5m Rockomax long tank
 * 2.5m Rockomax medium tank
