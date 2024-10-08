@@ -13,7 +13,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 14/398
+### 15/398
 
 <details>
 <summary>Command</summary>
@@ -48,9 +48,10 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Coupling</summary>
 
-2/? [album](https://imgur.com/a/WeIMzri)
+3/? [album](https://imgur.com/a/WeIMzri)
   
 * 2.5m decoupler
+* 2.5m Engine Plate <span style="color:red">!ALBUM PENDING</span>
 * Shielded docking port(WIP, the docking port is messed up, but colored)
 
 </details>
@@ -79,6 +80,10 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 </details>
 
+# Known Issues:
+* Shielded docking port: meshes were named the same, so the door looks ugly, sorry
+* Some stuff doesn't like switching meshes properly, for now only engine plate's connect points, so after you switch it you have to switch to Squad and Bob Ross Paints again
+
 # Contribution!
 
 If you are a typical user, and would like to suggest/report issue/something you don't like, don't hesitate and go ahead create post in discussions! I am more than happy to help you, even if you want different coloring, I can try to create you an alternate mask!
@@ -89,4 +94,5 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Proper wiki for contributing, explain TURD_ConfigMaker, video too
 * Submodule for ConfigMaker
 * Fix shielded docking port
+* Engine plate boattail
 * Tidy up configs for proper organization
