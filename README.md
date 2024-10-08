@@ -13,14 +13,15 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 15/398
+### 20/398
 
 <details>
 <summary>Command</summary>
 
- 4/? [album](https://imgur.com/a/qKnU0Tc)
-  
-* MK1-3 Command Pod
+ 5/? [album](https://imgur.com/a/qKnU0Tc)
+
+* MK1 Pod **ALBUM PENDING**
+* MK1-3 Pod
 * KV1 Pod
 * KV2 Pod
 * KV3 Pod
@@ -29,8 +30,9 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Fuel Tanks</summary>
 
-4/? [album](https://imgur.com/a/3gXVMj4)
-  
+5/? [album](https://imgur.com/a/3gXVMj4)
+
+* 1.25m medium tank **ALBUM PENDING**
 * 2.5m Rockomax long tank
 * 2.5m Rockomax medium tank
 * 2.5m Rockomax small tank
@@ -40,16 +42,26 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 <details>
 <summary>Engines</summary>
 
-1/? [album](https://imgur.com/a/iimZZ1O)
+2/? [album](https://imgur.com/a/iimZZ1O)
   
 * Vector(SSME) now featuring shroud :)
+* Dart **ALBUM PENDING**
+
+</details>
+<details>
+<summary>Structural</summary>
+
+1/? ALBUM
+
+* Some kind of I beam? **ALBUM PENDING**
 
 </details>
 <details>
 <summary>Coupling</summary>
 
-3/? [album](https://imgur.com/a/WeIMzri)
-  
+4/? [album](https://imgur.com/a/WeIMzri)
+
+* 1.25m decoupler **ALBUM PENDING**
 * 2.5m decoupler
 * 2.5m Engine Plate **ALBUM PENDING**
 * Shielded docking port(WIP, the docking port is messed up, but colored)
@@ -60,7 +72,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 1/? [album](https://imgur.com/a/OUj7zRc)
   
-* Small 1.25m stubby cone(idk name, also what the hell restock its not in structural)
+* Small 1.25m stubby cone
 
 </details>
 <details>
@@ -95,4 +107,5 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Submodule for ConfigMaker
 * Fix shielded docking port
 * Engine plate boattail
+* Proper I beam config
 * Tidy up configs for proper organization
