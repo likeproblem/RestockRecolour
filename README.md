@@ -51,7 +51,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 3/? [album](https://imgur.com/a/WeIMzri)
   
 * 2.5m decoupler
-* 2.5m Engine Plate <span style="color:red">!ALBUM PENDING</span>
+* 2.5m Engine Plate **ALBUM PENDING**
 * Shielded docking port(WIP, the docking port is messed up, but colored)
 
 </details>
