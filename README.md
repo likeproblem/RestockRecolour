@@ -20,7 +20,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
  5/? [album](https://imgur.com/a/qKnU0Tc)
 
-* MK1 Pod **ALBUM PENDING**
+* MK1 Pod
 * MK1-3 Pod
 * KV1 Pod
 * KV2 Pod
@@ -32,7 +32,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 5/? [album](https://imgur.com/a/3gXVMj4)
 
-* 1.25m medium tank **ALBUM PENDING**
+* 1.25m medium tank
 * 2.5m Rockomax long tank
 * 2.5m Rockomax medium tank
 * 2.5m Rockomax small tank
@@ -44,16 +44,16 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 2/? [album](https://imgur.com/a/iimZZ1O)
   
-* Vector(SSME) now featuring shroud :)
-* Dart **ALBUM PENDING**
+* Vector
+* Dart
 
 </details>
 <details>
 <summary>Structural</summary>
 
-1/? ALBUM
+1/? [album](https://imgur.com/a/4l6JZEO)
 
-* Some kind of I beam? **ALBUM PENDING**
+* Some kind of I beam?
 
 </details>
 <details>
@@ -61,9 +61,9 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 4/? [album](https://imgur.com/a/WeIMzri)
 
-* 1.25m decoupler **ALBUM PENDING**
+* 1.25m decoupler
 * 2.5m decoupler
-* 2.5m Engine Plate **ALBUM PENDING**
+* 2.5m Engine Plate
 * Shielded docking port(WIP, the docking port is messed up, but colored)
 
 </details>
@@ -80,7 +80,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 1/? [album](https://imgur.com/a/65ZpHD8)
   
-* 2.5m heatshield(defaults to black variant, since brown texture aint inside texture, you can recolour anyways lol)
+* 2.5m heatshield(defaults to black variant, since brown texture aint inside texture, you can recolour anyways)
 
 </details>
 <details>
