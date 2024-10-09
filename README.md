@@ -108,4 +108,4 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Fix shielded docking port
 * Engine plate boattail
 * Proper I beam config
-* Tidy up configs for proper organization
+* Tidy up configs for proper organization - **TECHNICALLY DONE, BUT PLEASE FOLLOW CATEGORIES AND MAKE SURE PARTS ARE IN SAME ORDER IN BOTH FILES**
