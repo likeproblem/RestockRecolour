@@ -13,84 +13,9 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 20/398
+### 20/318
 
-<details>
-<summary>Command</summary>
-
- 5/? [album](https://imgur.com/a/qKnU0Tc)
-
-* MK1 Pod
-* MK1-3 Pod
-* KV1 Pod
-* KV2 Pod
-* KV3 Pod
-
-</details>
-<details>
-<summary>Fuel Tanks</summary>
-
-5/? [album](https://imgur.com/a/3gXVMj4)
-
-* 1.25m medium tank
-* 2.5m Rockomax long tank
-* 2.5m Rockomax medium tank
-* 2.5m Rockomax small tank
-* 2.5m Rockomax tiny tank
-
-</details>
-<details>
-<summary>Engines</summary>
-
-2/? [album](https://imgur.com/a/iimZZ1O)
-  
-* Vector
-* Dart
-
-</details>
-<details>
-<summary>Structural</summary>
-
-1/? [album](https://imgur.com/a/4l6JZEO)
-
-* Some kind of I beam?
-
-</details>
-<details>
-<summary>Coupling</summary>
-
-4/? [album](https://imgur.com/a/WeIMzri)
-
-* 1.25m decoupler
-* 2.5m decoupler
-* 2.5m Engine Plate
-* Shielded docking port(WIP, the docking port is messed up, but colored)
-
-</details>
-<details>
-<summary>Aerodynamics</summary>
-
-1/? [album](https://imgur.com/a/OUj7zRc)
-  
-* Small 1.25m stubby cone
-
-</details>
-<details>
-<summary>Thermal</summary>
-
-1/? [album](https://imgur.com/a/65ZpHD8)
-  
-* 2.5m heatshield(defaults to black variant, since brown texture aint inside texture, you can recolour anyways)
-
-</details>
-<details>
-<summary>Utility</summary>
-
-1/? [album](https://imgur.com/a/4KpWiSE)
-  
-* 1.25m parachute
-
-</details>
+** MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)
 
 # Known Issues:
 * Shielded docking port: meshes were named the same, so the door looks ugly, sorry
