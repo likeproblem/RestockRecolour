@@ -20,6 +20,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 # Known Issues:
 * Shielded docking port: meshes were named the same, so the door looks ugly, sorry
 * Some stuff doesn't like switching meshes properly, for now only engine plate's connect points, so after you switch it you have to switch to Squad and Bob Ross Paints again
+* Engine plate does't work with boattail for some reason, though it looks fine in VAB, it resets when you launch :/
 
 # Contribution!
 
@@ -29,8 +30,5 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 
 # TODO
 * Proper wiki for contributing, explain TURD_ConfigMaker, video too
-* Submodule for ConfigMaker
 * Fix shielded docking port
-* Engine plate boattail
-* Proper I beam config
 * Tidy up configs for proper organization - **TECHNICALLY DONE, BUT PLEASE FOLLOW CATEGORIES AND MAKE SURE PARTS ARE IN SAME ORDER IN BOTH FILES**
