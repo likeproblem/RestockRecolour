@@ -13,7 +13,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 26/318
+### 35/318
 
 ** MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List) **
 
