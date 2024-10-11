@@ -13,9 +13,9 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 20/318
+### 26/318
 
-** MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)
+** MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List) **
 
 # Known Issues:
 * Shielded docking port: meshes were named the same, so the door looks ugly, sorry
@@ -32,3 +32,4 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Proper wiki for contributing, explain TURD_ConfigMaker, video too
 * Fix shielded docking port
 * Tidy up configs for proper organization - **TECHNICALLY DONE, BUT PLEASE FOLLOW CATEGORIES AND MAKE SURE PARTS ARE IN SAME ORDER IN BOTH FILES**
+* Better cupola??
