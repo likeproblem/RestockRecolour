@@ -7,7 +7,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Honorable Mentions:
 * @UncleMateo for contribution
-* @Sparttwo for contribution of INSANE AMOUNT OF PARTS, and probable maintainer in future
+* @Spartwo for contribution of INSANE AMOUNT OF PARTS, and probable maintainer in future
 * OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk1-3pod design
 * ZZetho for creating amazing tutorial
 * And of course TURD, TU and Restock
