@@ -6,6 +6,8 @@
 Download source, grab inside TU_Restock(without license or readme, 3 folders and 4 txts), and put into GameData(no no TURD!)
 
 # Honorable Mentions:
+* @UncleMateo for contribution
+* @Sparttwo for contribution of INSANE AMOUNT OF PARTS, and probable maintainer in future
 * OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk1-3pod design
 * ZZetho for creating amazing tutorial
 * And of course TURD, TU and Restock
@@ -13,7 +15,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 37/319
+### 61/320
 
 ** MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List) **
 
@@ -33,3 +35,4 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Fix shielded docking port
 * Tidy up configs for proper organization - **TECHNICALLY DONE, BUT PLEASE FOLLOW CATEGORIES AND MAKE SURE PARTS ARE IN SAME ORDER IN BOTH FILES**
 * Better cupola??
+* Proper testing for all new parts
