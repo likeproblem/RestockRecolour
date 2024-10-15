@@ -36,4 +36,3 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Tidy up configs for proper organization - **TECHNICALLY DONE, BUT PLEASE FOLLOW CATEGORIES AND MAKE SURE PARTS ARE IN SAME ORDER IN BOTH FILES**
 * Better cupola??
 * Proper testing for all new parts
-* Science JR behaving rather strange
