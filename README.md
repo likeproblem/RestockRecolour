@@ -6,8 +6,7 @@
 Download source, grab inside TU_Restock(without license or readme, 3 folders and 4 txts), and put into GameData(no no TURD!)
 
 # Honorable Mentions:
-* @UncleMateo for contribution
-* @Spartwo for contribution of INSANE AMOUNT OF PARTS, and probable maintainer in future
+* @UncleMateo and @Spartwo for contribution
 * OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk1-3pod design
 * ZZetho for creating amazing tutorial
 * And of course TURD, TU and Restock
@@ -15,7 +14,7 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 # Parts Done:
 
-### 61/320
+### 68/320
 
 ** MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List) **
 
