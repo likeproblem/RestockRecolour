@@ -16,12 +16,13 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 ### 77/320
 
-** MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List) **
+**MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)**
 
 # Known Issues:
 * Shielded docking port: meshes were named the same, so the door looks ugly, sorry
 * Some stuff doesn't like switching meshes properly, for now only engine plate's connect points, so after you switch it you have to switch to Squad and Bob Ross Paints again
 * Engine plate does't work with boattail for some reason, though it looks fine in VAB, it resets when you launch :/
+* Just a silly issue, some parts such as TURD's jet engines and intakes, and radial science module, will appear transparent, however after you launch vessel return to VAB it will fix itself
 
 # Contribution!
 
@@ -34,4 +35,3 @@ If you are a contributor(or wants to be), refer to guidelines and tutorial(non-e
 * Fix shielded docking port
 * Tidy up configs for proper organization - **TECHNICALLY DONE, BUT PLEASE FOLLOW CATEGORIES AND MAKE SURE PARTS ARE IN SAME ORDER IN BOTH FILES**
 * Better cupola??
-* Proper testing for all new parts
