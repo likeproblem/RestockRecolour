@@ -1,8 +1,14 @@
 [![Static Badge](https://img.shields.io/badge/This_work_is_licensed_under-CC_BY--NC--SA_4.0-red?logo=creativecommons&logoColor=white)](https://github.com/likeproblem/RestockRecolour?tab=License-1-ov-file)
 # RestockRecolour
-![](https://imgur.com/cZjJAZO.jpg)
-[album](https://imgur.com/a/BK4bnBF)
-# HOWTO INSTALL
+![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
+
+# Parts Done:
+
+### 83/322
+
+**MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)**
+
+# HOW TO INSTALL
 Download source, grab inside TU_Restock(without license or readme, 3 folders and 4 txts), and put into GameData(no no TURD!)
 
 # Honorable Mentions:
@@ -11,12 +17,6 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 * ZZetho for creating amazing tutorial
 * And of course TURD, TU and Restock
 * (pss, and my config maker too, very handy)
-
-# Parts Done:
-
-### 77/320
-
-**MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)**
 
 # Known Issues:
 * Shielded docking port: meshes were named the same, so the door looks ugly, sorry
