@@ -4,7 +4,7 @@
 
 # Parts Done:
 
-### 83/322
+### 86/332 [25.9%]
 
 **MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)**
 
@@ -28,10 +28,9 @@ Download source, grab inside TU_Restock(without license or readme, 3 folders and
 
 If you are a typical user, and would like to suggest/report issue/something you don't like, don't hesitate and go ahead create post in discussions! I am more than happy to help you, even if you want different coloring, I can try to create you an alternate mask!
 
-If you are a contributor(or wants to be), refer to guidelines and tutorial(non-existant), fork rep., and pull request!
+If you are a contributor(or wants to be), refer to guidelines, fork rep., and pull request!
 
 # TODO
-* Proper wiki for contributing, explain TURD_ConfigMaker, video too
 * Fix shielded docking port
-* Tidy up configs for proper organization - **TECHNICALLY DONE, BUT PLEASE FOLLOW CATEGORIES AND MAKE SURE PARTS ARE IN SAME ORDER IN BOTH FILES**
 * Better cupola??
+* wiki updates
