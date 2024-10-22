@@ -1,0 +1,18 @@
++KSP_TEXTURE_SET[$MOD$_Default]:NEEDS[TexturesUnlimited&$MOD$]
+{
+    @name = $MOD$_$PART$_Default
+    @MATERIAL
+    {
+		$mesh$
+		
+        texture = _MainTex,$TEXTURE$
+        texture = _BumpMap,$TEXTURE_BUMPMAP$
+        texture = _Emissive,$TEXTURE_EMISSIVE$
+        
+        PROPERTY
+        {
+            name = _Shininess
+            float = $SHININESS$
+        }
+    }
+}

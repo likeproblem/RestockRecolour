@@ -1,0 +1,64 @@
+// texture sets that are copied to create the default and recolour texture sets //
+
+KSP_TEXTURE_SET:NEEDS[TexturesUnlimited&$MOD$]
+{
+    name = $MOD$_Default
+    title = Squad
+    recolorable = false
+
+    MATERIAL
+    {
+        mode = create
+        
+        shader = KSP/Emissive/Bumped Specular
+    }
+}
+
+// create red green and blue if they dont exist already //
+
+KSP_COLOR_PRESET:NEEDS[TexturesUnlimited]
+{
+    name = absolute_red
+    title = Absolute Red
+    color = 255,0,0
+    specular = 0
+    metallic = 0
+}
+KSP_COLOR_PRESET:NEEDS[TexturesUnlimited]
+{
+    name = absolute_green
+    title = Absolute Green
+    color = 0,255,0
+    specular = 0
+    metallic = 0
+}
+KSP_COLOR_PRESET:NEEDS[TexturesUnlimited]
+{
+    name = absolute_blue
+    title = Absolute Blue
+    color = 0,0,255
+    specular = 0
+    metallic = 0
+}
+
+KSP_TEXTURE_SET:NEEDS[TexturesUnlimited&$MOD$]
+{
+    name = $MOD$_Paint
+    title = Bob Ross Paints
+    recolorable = true
+    
+    MATERIAL
+    {
+        mode = create
+        
+        shader = TU/Metallic
+        
+        keyword = TU_RECOLOR
+    }
+    COLORS
+    {
+        mainColor = absolute_red
+        secondColor = absolute_green
+        detailColor = absolute_blue
+    }
+}

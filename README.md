@@ -4,12 +4,12 @@
 
 # Parts Done:
 
-### 86/332 [25.9%]
+### 94/332 [28.3%]
 
 **MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)**
 
 # HOW TO INSTALL
-Download source, grab inside TU_Restock(without license or readme, 3 folders and 4 txts), and put into GameData(no no TURD!)
+Download source, grab inside TURD(without license or readme, 1 folder), and put into GameData(merge with TURD!)
 
 # Honorable Mentions:
 * @UncleMateo and @Spartwo for contribution
