@@ -72,6 +72,10 @@ EnginePlate2
 Decoupler_1
 noseCone
 HeatShield2
+ConformalStorageUnit
+smallCargoContainer
+CargoStorageUnit
+cargoContainer
 restock-battery-1875-1
 restock-battery-375-1
 batteryBank
@@ -92,19 +96,17 @@ sensorAccelerometer
 sensorBarometer
 sensorGravimeter
 sensorThermometer
+OrbitalScanner
+SurveyScanner
+SurfaceScanner
+InfraredTelescope
 parachuteLarge
 
 
 PARTS NOT FOUND IN WIKI: 
 
 cupola
-Size4_Tank_01
-Size4_Tank_02
-Size4_Tank_03
-Size4_Tank_04
 
 
 PARTS NOT CHECKED OFF IN WIKI: 
 
-restock-sciencebox-stack-1
-ScienceBox

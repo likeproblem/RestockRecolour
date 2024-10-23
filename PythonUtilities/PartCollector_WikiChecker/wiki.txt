@@ -1,15 +1,26 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 94/332 [28.3%]
-
-# WE ARE MISSING 5M TANKS
+# Parts Completed: 103/338 [30.5%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
 For the most part, _Stock/BG/MH Parts_ will have existing TURD configs, either from TheMan WithNoName (creator of TURD for stock) or OnlyLightMatters (the creator of the TURDs for the 2 expansions).  
 
 ▬NOTE▬ 
-This wiki is in a state of construction and should be finished soon.
+This wiki is still partially under construction, but is getting near to being completed.  There may still be some errors. 
+_________________________________________________________________________________
+**KEY**
+_________________________________________________________________________________
+🔲  Restock/Restock+ Part without a recolor
 
+✔️  Restock/Restock+ Part with completed recolor
+
+--  Stock/MH/BG Part that has working TURD configs compatible with TU_Restock
+
+❓  Stock/MH/BG Part that has broken TURD configs, some incompatibility with TU_Restock
+
+⬜ Stock/MH/BG Part that _NEVER_ had a TURD config in the first place
+
+_________________________________________________________________________________
 <details>
 <summary>▌C O M M A N D▐</summary>
 
@@ -32,6 +43,8 @@ This wiki is in a state of construction and should be finished soon.
 🔲	**MK1 Lander Can**									[landerCabinSmall]
 
 ✔️	**MK1-3 Command Pod**									[mk1-3pod]
+
+✔️	**Cupola**									[Cupola]
 
 --	_MK2 Cockpit_											[mk2Cockpit_Standard]
 
@@ -80,7 +93,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌F U E L _ T A N K ▐</summary>
 
-### 18/59
+### 22/53
 
 --	_2.5m to MK2 Adapter_									[adapterSize2-Mk2]
 
@@ -131,6 +144,14 @@ This wiki is in a state of construction and should be finished soon.
 🔲	**FTE-1 Drain Valve**								[ReleaseValve]
 
 🔲	**FTX-2 External Fuel Duct**						[fuelLine]
+
+✔️	**Kerbodyne S4-64 Fuel Tank**	[Size4_Tank_01]
+
+✔️	**Kerbodyne S4-128 Fuel Tank**	[Size4_Tank_02]
+
+✔️	**Kerbodyne S4-256 Fuel Tank**	[Size4_Tank_03]
+
+✔️	**Kerbodyne S4-512 Fuel Tank**	[Size4_Tank_04]
 
 --	_Mk0 Liquid Fuel Fuselage_							[miniFuselage]
 
@@ -334,7 +355,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ C O N T R O L ▐</summary>
 
-### 7/12
+### 6/12
 
 ✔️	**Advanced Inline Stabilizer**							[advSasModule]
 
@@ -366,7 +387,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ S T R U C T U R A L ▐</summary>
 
-### 22/50
+### 22/51
 
 ✔️	**BZ-26 Radial Attachment Point Jr.**					[restock-node-625-1]
 
@@ -492,7 +513,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ C O U P L I N G ▐</summary>
 
-### 4/25
+### 4/31
 
 🔲‼	**Advanced Grabbing Unit**								[GrapplingDevice]
 
@@ -605,15 +626,15 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ C A R G O ▐</summary>
 
-### 0/4
+### 4/4
 
-🔲	**SEQ-24 Cargo Storage Unit**			[CargoStorageUnit]
+✔️	**SEQ-24 Cargo Storage Unit**			[CargoStorageUnit]
  
-🔲	**SEQ-3 Cargo Storage Unit**			[smallCargoContainer]
+✔️	**SEQ-3 Cargo Storage Unit**			[smallCargoContainer]
 
-🔲	**SEQ-3C Conformal Storage Unit**		[cargoContainer]
+✔️	**SEQ-3C Conformal Storage Unit**		[cargoContainer]
 
-🔲	**SEQ-9 Cargo Storage Unit**			[ConformalStorageUnit]
+✔️	**SEQ-9 Cargo Storage Unit**			[ConformalStorageUnit]
 
 </details>
 <details>
@@ -760,7 +781,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ G R O U N D ▐</summary>
 
-### 0/7
+### 0/8
 
 🔲	**LT-05 Micro Landing Strut**							[miniLandingLeg]
 
@@ -796,7 +817,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ T H E R M A L ▐</summary>
 
-### 1/11
+### 1/12
 
 🔲	**Heat Shield (0.625m)**								[HeatShield0]
 
@@ -826,7 +847,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ E L E C T R I C A L ▐</summary>
 
-### 7/21
+### 7/22
 
 🔲 	**Fuel Cell**												[FuelCell]
 
@@ -876,7 +897,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ C O M M U N I C A T I O N ▐</summary>
 
-### 2/13
+### 2/12
 
 🔲	**Communotron 16**	[longAntenna]
 
@@ -905,7 +926,7 @@ This wiki is in a state of construction and should be finished soon.
 <details>
 <summary>▌ S C I E N C E ▐</summary>
 
-### 14/19
+### 18/20
 
 ✔️	**2HOT Thermometer**			[sensorThermometer]
 
@@ -915,15 +936,15 @@ This wiki is in a state of construction and should be finished soon.
 
 ✔️	**Double-C Seismic Accelerometer**			[sensorAccelerometer]
 
-🔲	**Experimental Return Unit**			[restock-sciencebox-stack-1]
+✔️	**Experimental Return Unit**			[restock-sciencebox-stack-1]
 
-🔲	**Experiment Storage Unit**			[ScienceBox]
+✔️	**Experiment Storage Unit**			[ScienceBox]
 
 ✔️	**GRAVMAX Negative Gravioli Detector**			[sensorGravimeter]
 
-🔲	**M4435 Narrow-Band Scanner**			[OrbitalScanner]
+✔️	**M4435 Narrow-Band Scanner**			[OrbitalScanner]
 
-🔲	**M700 Survey Scanner**			[SurveyScanner]
+✔️	**M700 Survey Scanner**			[SurveyScanner]
 
 🔲	**Magnetometer Boom**			[Magnetometer]
 
@@ -941,11 +962,11 @@ This wiki is in a state of construction and should be finished soon.
 
 ✔️	**SC-9001R Radial Science Jr**			[restock-materialbay-radial-1]
 
-🔲	**SENTINEL Infared Telescope**			[InfraredTelescope]
+✔️	**SENTINEL Infared Telescope**			[InfraredTelescope]
 
 ✔️	**SPRT Medium Scanning Arm**			[RobotArmScanner_S2]
 
-🔲	**Surface Scanning Module**			[SurfaceScanner]
+✔️	**Surface Scanning Module**			[SurfaceScanner]
 
 </details>
 <details>
