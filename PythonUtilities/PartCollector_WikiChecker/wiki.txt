@@ -1,25 +1,36 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 103/338 [30.5%]
+# Parts Completed: 136/340 [40.00%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
 For the most part, _Stock/BG/MH Parts_ will have existing TURD configs, either from TheMan WithNoName (creator of TURD for stock) or OnlyLightMatters (the creator of the TURDs for the 2 expansions).  
 
-▬NOTE▬ 
-This wiki is still partially under construction, but is getting near to being completed.  There may still be some errors. 
 _________________________________________________________________________________
 **KEY**
 _________________________________________________________________________________
-🔲  Restock/Restock+ Part without a recolor
 
-✔️  Restock/Restock+ Part with completed recolor
+* 🔲  Restock/Restock+ Part without a recolor
 
---  Stock/MH/BG Part that has working TURD configs compatible with TU_Restock
+* ✔️  Restock/Restock+ Part with completed recolor
 
-❓  Stock/MH/BG Part that has broken TURD configs, some incompatibility with TU_Restock
+* ✔️❗  Restock/Restock+ Part with completed recolor that has some kind of variant issue that needs fixing 
 
-⬜ Stock/MH/BG Part that _NEVER_ had a TURD config in the first place
+* 🔲❗ Restock/Restock+ Part without a recolor that has false TURD recolour, will need **!MODULE[KSPTextureSwitch],* {}**
+____________________________________________________________________________________
 
+* --  Stock/MH/BG Part that has working TURD configs compatible with TU_Restock
+
+* ❓  Stock/MH/BG Part that has broken TURD configs, some incompatibility with TU_Restock
+
+* ⬜ Stock/MH/BG Part that _NEVER_ had a TURD config in the first place
+
+* ✅  Stock/MH/BG Part that _had_ broken TURD configs, which were fixed, & parts that never had a recolor config that now do.
+____________________________________________________________________________________
+**ADDITIONAL INDICATORS**
+
+* ✴️ This mark indicates a part with _multiple_ variants, and it means that ALL of those variants are confirmed to have working recolors.
+
+* 🔄 Indicates a part which has **working** recolors that is entirely missing recolors for one or more of its variants.  Such parts _may_ call for the more complicated 'VariantSwitch'-style recolors or Spartwo's method.  These parts need more attention.
 _________________________________________________________________________________
 <details>
 <summary>▌C O M M A N D▐</summary>
@@ -44,7 +55,7 @@ ________________________________________________________________________________
 
 ✔️	**MK1-3 Command Pod**									[mk1-3pod]
 
-✔️	**Cupola**									[Cupola]
+✔️	**Cupola**									[cupola]
 
 --	_MK2 Cockpit_											[mk2Cockpit_Standard]
 
@@ -93,7 +104,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌F U E L _ T A N K ▐</summary>
 
-### 22/53
+### 22/55
 
 --	_2.5m to MK2 Adapter_									[adapterSize2-Mk2]
 
@@ -145,6 +156,8 @@ ________________________________________________________________________________
 
 🔲	**FTX-2 External Fuel Duct**						[fuelLine]
 
+✔️	**Jumbo Holding Tank**									[restock-oretank-375-1]
+
 ✔️	**Kerbodyne S4-64 Fuel Tank**	[Size4_Tank_01]
 
 ✔️	**Kerbodyne S4-128 Fuel Tank**	[Size4_Tank_02]
@@ -152,6 +165,8 @@ ________________________________________________________________________________
 ✔️	**Kerbodyne S4-256 Fuel Tank**	[Size4_Tank_03]
 
 ✔️	**Kerbodyne S4-512 Fuel Tank**	[Size4_Tank_04]
+
+✔️	**Medium Holding Tank**									[restock-oretank-1875-1]
 
 --	_Mk0 Liquid Fuel Fuselage_							[miniFuselage]
 
@@ -313,7 +328,7 @@ ________________________________________________________________________________
 
 🔲	**Mk-1H 'Torch' Liquid Fuel Engine**					[restock-engine-torch]
 
-❓	MK-55 "Thud" Liquid Fuel Engine						[radialLiquidEngine1-2]
+❓	_MK-55 "Thud" Liquid Fuel Engine_						[radialLiquidEngine1-2]
 
 🔲	**O-10 "Puff" MonoPropellant Fuel Engine**				[omsEngine]
 
@@ -329,9 +344,9 @@ ________________________________________________________________________________
 
 🔲	**RK-7 "Kodiak" Liquid Fuel Engine**					[LiquidEngineRK-7]
 
-🔲	**RT-10 "Hammer" Solid Fuel Booster**					[solidBooster_v2]
+✔️	**RT-10 "Hammer" Solid Fuel Booster**					[solidBooster_v2]
 
-🔲	**RT-5 "Flea" Solid Fuel Booster**						[solidBooster_sm_v2]
+✔️	**RT-5 "Flea" Solid Fuel Booster**						[solidBooster_sm_v2]
 
 🔲	**RV-1 "Cub" Vernier Engine**							[LiquidEngineRV-1]
 
@@ -387,7 +402,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌ S T R U C T U R A L ▐</summary>
 
-### 22/51
+### 36/51
 
 ✔️	**BZ-26 Radial Attachment Point Jr.**					[restock-node-625-1]
 
@@ -453,35 +468,35 @@ ________________________________________________________________________________
 
 🔲	**Rockomax HubMax Multi-Point Connector**				[stationHub]
 
-??	_Small Hardpoint_										[smallHardpoint]
+✅	_Small Hardpoint_										[smallHardpoint]
 
-🔲	**SP-R06 Structural Panel**								[Triangle0]
+✅	**SP-R06 Structural Panel**								[Triangle0]
 
-🔲	**SP-R12 Structural Panel**								[Triangle1]
+✅	**SP-R12 Structural Panel**								[Triangle1]
 
-🔲	**SP-R18 Structural Panel**								[Triangle1p5]
+✅	**SP-R18 Structural Panel**								[Triangle1p5]
 
-🔲	**SP-R25 Structural Panel**							[Triangle2]
+✅	**SP-R25 Structural Panel**							[Triangle2]
 
-🔲	**SP-S06 Structural Panel**								[Panel0]
+✅	**SP-S06 Structural Panel**								[Panel0]
 
-🔲	**SP-S12 Structural Panel**								[Panel1]
+✅	**SP-S12 Structural Panel**								[Panel1]
 
-🔲	**SP-S18 Structural Panel**								[Panel1p5]
+✅	**SP-S18 Structural Panel**								[Panel1p5]
 
-🔲	**SP-S25 Structural Panel**								[Panel2]
+✅	**SP-S25 Structural Panel**								[Panel2]
 
-🔲	**SP-T06 Structural Panel**							[EquiTriangle0]
+✅	**SP-T06 Structural Panel**							[EquiTriangle0]
 
-🔲	**SP-T12 Structural Panel**								[EquiTriangle1]
+✅	**SP-T12 Structural Panel**								[EquiTriangle1]
 
-🔲	**SP-T18 Structural Panel**								[EquiTriangle1p5]
+✅	**SP-T18 Structural Panel**								[EquiTriangle1p5]
 
-🔲	**SP-T25 Structural Panel**								[EquiTriangle2]
+✅	**SP-T25 Structural Panel**								[EquiTriangle2]
 
---  	_Structural Fuselage_									[Mk1FuselageStructural]
+-- 	_Structural Fuselage_									[Mk1FuselageStructural]
 
-??	_Structural Pylon_									[structuralPylon]
+✅	_Structural Pylon_									[structuralPylon]
 
 ✔️	**T-12 Structural Tube**								[Tube1]
 
@@ -513,11 +528,11 @@ ________________________________________________________________________________
 <details>
 <summary>▌ C O U P L I N G ▐</summary>
 
-### 4/31
+### 18/31
 
-🔲‼	**Advanced Grabbing Unit**								[GrapplingDevice]
+🔲❗	**Advanced Grabbing Unit**								[GrapplingDevice]
 
-🔲‼	**Advanced Grabbing Unit Jr.**							[smallClaw]
+🔲❗	**Advanced Grabbing Unit Jr.**							[smallClaw]
 
 🔲	**Clamp-O-Tron Docking Port**							[dockingPort2]
 
@@ -541,43 +556,43 @@ ________________________________________________________________________________
 
 🔲	**Hydraulic Detachment Manifold**						[radialDecoupler1-2]
 
-❓	Inflatable Airlock									[InflatableAirlock]
+❓	_Inflatable Airlock_									[InflatableAirlock]
 
 🔲	**Inline Clamp-O-Tron**									[dockingPortLateral]
 
 🔲	**MK2 Clamp-O-Tron**									[mk2DockingPort]
 
-🔲	**Size 1.5 Decoupler**									[Size1p5_Strut_Decoupler]
+🔲	**Size 1.5 Decoupler**									[Size1p5_Strut_Decoupler](What is this)
 
-🔲	**TD-06 Decoupler**						 				[Decoupler_0]
+✔️	**TD-06 Decoupler**						 				[Decoupler_0]
 
 ✔️	**TD-12 Decoupler**						 				[Decoupler_1]
 
-🔲	**TD-18 Decoupler**			 			 			[Decoupler_1p5]
+✔️	**TD-18 Decoupler**			 			 			[Decoupler_1p5]
 
 ✔️	**TD-25 Decoupler**						 				[Decoupler_2]
 
-🔲	**TD-37 Decoupler**										[Decoupler_3]
+✔️	**TD-37 Decoupler**										[Decoupler_3]
 
-🔲	**TD-50 Decoupler**										[Decoupler_4]
+✔️	**TD-50 Decoupler**										[Decoupler_4]
 
-🔲	**TS-06 Stack Separator**								[Separator_0]
+✔️	**TS-06 Stack Separator**								[Separator_0]
 
-🔲	**TS-12 Stack Separator**								[Separator_1]
+✔️	**TS-12 Stack Separator**								[Separator_1]
 
-🔲	**TS-18 Stack Separator**								[Separator_1p5]
+✔️	**TS-18 Stack Separator**								[Separator_1p5]
 
-🔲	**TS-25 Stack Separator**								[Separator_2]
+✔️	**TS-25 Stack Separator**								[Separator_2]
 
-🔲	**TS-37 Stack Separator**								[Separator_3]
+✔️	**TS-37 Stack Separator**								[Separator_3]
 
-🔲	**TS-50 Stack Separator**								[Separator_4]
+✔️	**TS-50 Stack Separator**								[Separator_4]
 
-🔲	**TT-14 Radial Decoupler**								[restock-decoupler-radial-tiny-1]
+✔️	**TT-14 Radial Decoupler**								[restock-decoupler-radial-tiny-1]
 
-🔲	**TT-38K Radial Decoupler**								[radialDecoupler]
+✔️	**TT-38K Radial Decoupler**								[radialDecoupler]
 
-🔲	**TT-70 Radial Decoupler**								[radialDecoupler2]
+✔️	**TT-70 Radial Decoupler**								[radialDecoupler2]
 
 </details>
 <details>
@@ -789,29 +804,29 @@ ________________________________________________________________________________
 
 🔲	**LT-2 Landing Strut**									[landingLeg1-2]
 
-‼‼	_LY-01 Fixed Landing Gear_							[GearFixed]
+❓	_LY-01 Fixed Landing Gear_							[GearFixed]
 
-‼‼	_LY-05 Steerable Landing Gear_						[GearFree]
+❓	_LY-05 Steerable Landing Gear_						[GearFree]
 
-‼‼	_LY-10 Small Landing Gear_						[SmallGearBay]
+❓	_LY-10 Small Landing Gear_						[SmallGearBay]
 
-‼‼	_LY-35 Medium Landing Gear_							[GearSmall]
+❓	_LY-35 Medium Landing Gear_							[GearSmall]
 
-‼‼	_LY-60 Large Landing Gear_							[GearMedium]
+❓	_LY-60 Large Landing Gear_							[GearMedium]
 
-‼‼	_LY-99 Extra Large Landing Gear_						[GearLarge]
+❓	_LY-99 Extra Large Landing Gear_						[GearLarge]
 
 🔲	**RoveMax M1-F Rover Wheel**							[roverWheelM1-F]
 
-🔲!	**RoveMax Model M1**									[roverWheel1]
+🔲❗️	**RoveMax Model M1**									[roverWheel1]
 
-🔲!	**RoveMax Model S2**									[roverWheel2]
+🔲❗️	**RoveMax Model S2**									[roverWheel2]
 
 🔲 	**RoveMax Model S2-T**									[restock-wheel-1-T]
 
-‼‼	_RoveMax Model XL3_									[restock-wheel-1-T]
+❓	_RoveMax Model XL3_									[restock-wheel-1-T]
 
-🔲!	**TR-2L Ruggedized Vehicular Wheel**					[wheelMed]
+🔲❗️	**TR-2L Ruggedized Vehicular Wheel**					[wheelMed]
 
 </details>
 <details>
@@ -847,15 +862,15 @@ ________________________________________________________________________________
 <details>
 <summary>▌ E L E C T R I C A L ▐</summary>
 
-### 7/22
+### 10/22
 
-🔲 	**Fuel Cell**												[FuelCell]
+✔️ 	**Fuel Cell**												[FuelCell]
 
-🔲 	**Fuel Cell Array**											[FuelCellArray]
+✔️ 	**Fuel Cell Array**											[FuelCellArray]
 
 🔲	**Gigantor XL Solar Array**											[largeSolarPanel]
 
-🔲	**NH-24 Monopropellant APU**										[restock-apu-radial-1]
+✔️	**NH-24 Monopropellant APU**										[restock-apu-radial-1]
 
 🔲	**OX-10C Photovoltaic Panels**										[solarPanelOX10C]
 
@@ -905,7 +920,7 @@ ________________________________________________________________________________
 
 🔲	**Communotron 88-88**	[commDish]
 
-🔲	**Communotron DTS-J1**	[restock-antenna-stack-2]
+✔️	**Communotron DTS-J1**	[restock-antenna-stack-2]
 
 ✔️	**Communotron DTS-M1**	[mediumDishAntenna]
 
@@ -926,7 +941,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌ S C I E N C E ▐</summary>
 
-### 18/20
+### 19/20
 
 ✔️	**2HOT Thermometer**			[sensorThermometer]
 
@@ -946,7 +961,7 @@ ________________________________________________________________________________
 
 ✔️	**M700 Survey Scanner**			[SurveyScanner]
 
-🔲	**Magnetometer Boom**			[Magnetometer]
+✔️	**Magnetometer Boom**			[Magnetometer]
 
 🔲	**Mobile Processing Lab MPL-LG-2**			[Large_Crewed_Lab]
 

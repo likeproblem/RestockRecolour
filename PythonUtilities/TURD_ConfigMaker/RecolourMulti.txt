@@ -4,7 +4,6 @@
     @MATERIAL
     {
 		$mesh$
-	
         vector = _DiffuseNorm,$NORM_DIFFUSE$
         vector = _MetalNorm,$NORM_METAL$
         vector = _SmoothnessNorm,$NORM_SMOOTHNESS$

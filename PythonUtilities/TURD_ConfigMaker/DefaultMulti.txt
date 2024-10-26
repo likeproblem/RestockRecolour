@@ -4,7 +4,6 @@
     @MATERIAL
     {
 		$mesh$
-		
         texture = _MainTex,$TEXTURE$
         texture = _BumpMap,$TEXTURE_BUMPMAP$
         texture = _Emissive,$TEXTURE_EMISSIVE$
