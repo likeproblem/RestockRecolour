@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 136/340 [40.00%]
+# Parts Completed: 146/340 [42.94%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌C O M M A N D▐</summary>
 
-### 12/22
+### 13/22
 
 ✔️	**EAS-1 External Command Seat**							[seatExternalCmd]
 
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 --	_MK2 Cockpit_											[mk2Cockpit_Standard]
 
-🔲	**MK2 Command Pod**										[Mk2Pod]
+✔️	**MK2 Command Pod**										[Mk2Pod]
 
 --	_MK2 Drone Core_										[mk2DroneCore]
 		
@@ -104,7 +104,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌F U E L _ T A N K ▐</summary>
 
-### 22/55
+### 24/55
 
 --	_2.5m to MK2 Adapter_									[adapterSize2-Mk2]
 
@@ -268,7 +268,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌ E N G I N E ▐</summary>
 
-### 4/43
+### 6/43
 
 🔲	**24-77 "Twitch" Liquid Fuel Engine**					[smallRadialEngine_v2]
 
@@ -554,7 +554,7 @@ ________________________________________________________________________________
 
 🔲	**EP-50 Engine Plate**									[EnginePlate4]
 
-🔲	**Hydraulic Detachment Manifold**						[radialDecoupler1-2]
+✔️	**Hydraulic Detachment Manifold**						[radialDecoupler1-2]
 
 ❓	_Inflatable Airlock_									[InflatableAirlock]
 
@@ -912,11 +912,11 @@ ________________________________________________________________________________
 <details>
 <summary>▌ C O M M U N I C A T I O N ▐</summary>
 
-### 2/12
+### 5/12
 
-🔲	**Communotron 16**	[longAntenna]
+✔️	**Communotron 16**	[longAntenna]
 
-🔲	**Communotron 16-S**	[SurfAntenna]
+✔️	**Communotron 16-S**	[SurfAntenna]
 
 🔲	**Communotron 88-88**	[commDish]
 
@@ -939,9 +939,9 @@ ________________________________________________________________________________
 🔲	**RA-2 Relay Antenna**	[RelayAntenna5]
 </details>
 <details>
-<summary>▌ S C I E N C E ▐</summary>
+<summary>✔️▌ S C I E N C E ▐</summary>
 
-### 19/20
+### 20/20
 
 ✔️	**2HOT Thermometer**			[sensorThermometer]
 
@@ -963,7 +963,7 @@ ________________________________________________________________________________
 
 ✔️	**Magnetometer Boom**			[Magnetometer]
 
-🔲	**Mobile Processing Lab MPL-LG-2**			[Large_Crewed_Lab]
+✔️	**Mobile Processing Lab MPL-LG-2**			[Large_Crewed_Lab]
 
 ✔️	**MysteryGoo™ Containment Unit**			[GooExperiment]
 
@@ -987,7 +987,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌ U T I L I T Y ▐</summary>
 
-### 1/23 
+### 2/23 
 
 🔲	**Convert-O-Tron 125**			[MiniISRU]
 
@@ -1037,7 +1037,7 @@ ________________________________________________________________________________
 
 🔲	**Pegasus III Mobility Enhancer**		[restock-ladder-static-3]
 
-🔲	**PPD-10 Hitchhiker Storage Container**	[CrewCabin]
+✔️	**PPD-10 Hitchhiker Storage Container**	[crewCabin]
 
 🔲	**Spotlight Mk1**				[spotLight3]
 

@@ -12,6 +12,7 @@ restock-drone-core-1875-1
 restock-drone-core-375-1
 probeStackSmall
 probeStackLarge
+Mk2Pod
 Rockomax64_BW
 Rockomax32_BW
 Rockomax16_BW
@@ -66,6 +67,8 @@ strutOcto
 stackPoint1
 restock-node-1875-1
 restock-node-625-1
+solidBooster_sm_v2
+solidBooster_v2
 Separator_1
 Separator_1p5
 Separator_2
@@ -78,8 +81,16 @@ Decoupler_2
 Decoupler_3
 Decoupler_4
 Separator_4
+radialDecoupler1-2
+radialDecoupler
+radialDecoupler2
+restock-decoupler-radial-tiny-1
 dockingPort1
+EnginePlate5
+EnginePlate4
+EnginePlate3
 EnginePlate2
+EnginePlate1p5
 noseCone
 HeatShield2
 ConformalStorageUnit
@@ -93,9 +104,14 @@ batteryBankLarge
 batteryBankMini
 ksp_r_largeBatteryPack
 batteryPack
+restock-apu-radial-1
+FuelCellArray
+FuelCell
 RelayAntenna100
 mediumDishAntenna
 restock-antenna-stack-2
+longAntenna
+SurfAntenna
 science_module
 restock-materialbay-radial-1
 GooExperiment
@@ -111,9 +127,10 @@ OrbitalScanner
 SurveyScanner
 SurfaceScanner
 InfraredTelescope
+Magnetometer
+Large_Crewed_Lab
 parachuteLarge
-solidBooster_sm_v2
-solidBooster_v2
+crewCabin
 
 
 PARTS NOT FOUND IN WIKI: 
@@ -123,3 +140,7 @@ PARTS NOT FOUND IN WIKI:
 
 PARTS NOT CHECKED OFF IN WIKI: 
 
+EnginePlate5
+EnginePlate1p5
+EnginePlate3
+EnginePlate4
