@@ -12,7 +12,7 @@
 Download source, grab inside TURD(without license or readme, 1 folder), and put into GameData(merge with TURD!)
 
 # Honorable Mentions:
-* @UncleMateo and @Spartwo for contribution
+* @UncleMateo, @Spartwo, and @EmberSkyMedia for contribution
 * OrbitalPhoenix, for inspiring to do the same thing, and ~~stolen~~ inspired mk1-3pod design
 * ZZetho for creating amazing tutorial
 * And of course TURD, TU and Restock
