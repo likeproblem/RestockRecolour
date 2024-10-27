@@ -19,8 +19,7 @@ Download source, grab inside TURD(without license or readme, 1 folder), and put 
 * (pss, and my config maker too, very handy)
 
 # Known Issues:
-* Some stuff doesn't like switching meshes properly, for now only engine plate's connect points, so after you switch it you have to switch to Squad and Bob Ross Paints again
-* Engine plate does't work with boattail for some reason, though it looks fine in VAB, it resets when you launch :/
+* Some stuff doesn't like switching meshes properly, for now only engine plate's fairing, so after you switch it you have to switch to Default and Paint again
 * Just a silly issue, some parts such as TURD's jet engines and intakes, and radial science module, will appear transparent, however after you launch vessel return to VAB it will fix itself
 * Mk1-2 pod can't color top hatch for some reason
 
