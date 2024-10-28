@@ -107,6 +107,10 @@ batteryPack
 restock-apu-radial-1
 FuelCellArray
 FuelCell
+HighGainAntenna5_v2
+restock-relay-radial-2_v2
+RelayAntenna5
+RelayAntenna50
 RelayAntenna100
 mediumDishAntenna
 restock-antenna-stack-2
@@ -144,3 +148,7 @@ EnginePlate5
 EnginePlate1p5
 EnginePlate3
 EnginePlate4
+restock-relay-radial-2_v2
+HighGainAntenna5_v2
+RelayAntenna50
+RelayAntenna5
