@@ -13,6 +13,7 @@ restock-drone-core-375-1
 probeStackSmall
 probeStackLarge
 Mk2Pod
+landerCabinSmall
 Rockomax64_BW
 Rockomax32_BW
 Rockomax16_BW
@@ -39,12 +40,19 @@ SSME
 toroidalAerospike
 liquidEngineMainsail_v2
 RAPIER
+ionEngine
 advSasModule
 asasmodule1-2
 restock-reactionwheel-1875-1
 sasModule
 restock-reactionwheel-radial-1
 vernierEngine
+linearRcs
+RCSLinearSmall
+RCSBlock_v2
+RCSblock_01_small
+restock-rcs-block-multi-2
+restock-rcs-block-multi-mini-2
 Tube1
 Tube1p5
 Tube2
@@ -69,6 +77,13 @@ restock-node-1875-1
 restock-node-625-1
 solidBooster_sm_v2
 solidBooster_v2
+stationHub
+adapterLargeSmallBi
+adapterLargeSmallTri
+adapterLargeSmallQuad
+stackBiCoupler_v2
+stackTriCoupler_v2
+stackQuadCoupler
 Separator_1
 Separator_1p5
 Separator_2
@@ -116,6 +131,9 @@ mediumDishAntenna
 restock-antenna-stack-2
 longAntenna
 SurfAntenna
+restock-antenna-stack-3
+commDish
+HighGainAntenna
 science_module
 restock-materialbay-radial-1
 GooExperiment
@@ -135,6 +153,11 @@ Magnetometer
 Large_Crewed_Lab
 parachuteLarge
 crewCabin
+ladder1
+restock-ladder-static-2
+restock-ladder-static-3
+telescopicLadder
+telescopicLadderBay
 
 
 PARTS NOT FOUND IN WIKI: 
@@ -144,11 +167,9 @@ PARTS NOT FOUND IN WIKI:
 
 PARTS NOT CHECKED OFF IN WIKI: 
 
+landerCabinSmall
+ionEngine
 EnginePlate5
 EnginePlate1p5
 EnginePlate3
 EnginePlate4
-restock-relay-radial-2_v2
-HighGainAntenna5_v2
-RelayAntenna50
-RelayAntenna5

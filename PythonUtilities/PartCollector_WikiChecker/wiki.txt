@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 146/340 [42.94%]
+# Parts Completed: 171/340 [50.29%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
@@ -368,9 +368,9 @@ ________________________________________________________________________________
 
 </details>
 <details>
-<summary>▌ C O N T R O L ▐</summary>
+<summary>✔️▌ C O N T R O L ▐</summary>
 
-### 6/12
+### 12/12
 
 ✔️	**Advanced Inline Stabilizer**							[advSasModule]
 
@@ -380,17 +380,17 @@ ________________________________________________________________________________
 
 ✔️	**Medium Reaction Wheel Assembly**						[restock-reactionwheel-1875-1]
 
-🔲	**Place Anywhere 1 Linear RCS Port**					[RCSLinearSmall]
+✔️	**Place Anywhere 1 Linear RCS Port**					[RCSLinearSmall]
 	
-🔲	**Place Anywhere 7 Linear RCS Port**					[linearRcs]
+✔️	**Place Anywhere 7 Linear RCS Port**					[linearRcs]
 
-🔲	**RV-105 RCS Thruster Block**							[RCSBlock_v2]
+✔️❗	**RV-105 RCS Thruster Block**							[RCSBlock_v2]
 
-🔲	**RV-105-A RCS Thruster Block**							[restock-rcs-block-multi-2]
+✔️	**RV-105-A RCS Thruster Block**							[restock-rcs-block-multi-2]
 
-🔲	**RV-1X Variable Thruster Block**						[RCSblock_01_small]
+✔️	**RV-1X Variable Thruster Block**						[RCSblock_01_small]
 
-🔲	**RV-1X-A RCS Thruster Block**							[restock-rcs-block-multi-mini-2]
+✔️❗	**RV-1X-A RCS Thruster Block**							[restock-rcs-block-multi-mini-2]
 
 ✔️	**Small Inline Reaction Wheel**							[sasModule]
 
@@ -402,7 +402,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌ S T R U C T U R A L ▐</summary>
 
-### 36/51
+### 43/51
 
 ✔️	**BZ-26 Radial Attachment Point Jr.**					[restock-node-625-1]
 
@@ -466,7 +466,7 @@ ________________________________________________________________________________
 
 🔲	**Rockomax Brand Adapter 02**							[largeAdapter2]
 
-🔲	**Rockomax HubMax Multi-Point Connector**				[stationHub]
+✔️	**Rockomax HubMax Multi-Point Connector**				[stationHub]
 
 ✅	_Small Hardpoint_										[smallHardpoint]
 
@@ -512,17 +512,17 @@ ________________________________________________________________________________
 
 🔲    **TT18-A Launch Stability Enhancer**					[launchClamp1]
 
-🔲	**TVR-1180C Mk1 Stack Tri-Coupler**						[stackTriCoupler_v2]
+✔️	**TVR-1180C Mk1 Stack Tri-Coupler**						[stackTriCoupler_v2]
 
-🔲	**TVR-200 Stack Bi-Coupler**							[stackBiCoupler_v2]
+✔️	**TVR-200 Stack Bi-Coupler**							[stackBiCoupler_v2]
 
-🔲	**TVR-200L Stack Bi-Adapter**							[adapterLargeSmallBi]
+✔️	**TVR-200L Stack Bi-Adapter**							[adapterLargeSmallBi]
 
-🔲	**TVR-2160C Mk2 Stack Quad-Coupler**					[stackQuadCoupler]
+✔️	**TVR-2160C Mk2 Stack Quad-Coupler**					[stackQuadCoupler]
 
-🔲	**TVR-300L Stack Tri-Adapter**							[adapterLargeSmallTri]
+✔️	**TVR-300L Stack Tri-Adapter**							[adapterLargeSmallTri]
 
-🔲	**TVR-400L Stack Quad-Adapter**							[adapterLargeSmallQuad]
+✔️	**TVR-400L Stack Quad-Adapter**							[adapterLargeSmallQuad]
 
 </details>
 <details>
@@ -639,7 +639,7 @@ ________________________________________________________________________________
 
 </details>
 <details>
-<summary>▌ C A R G O ▐</summary>
+<summary>✔️▌ C A R G O ▐</summary>
 
 ### 4/4
 
@@ -910,33 +910,33 @@ ________________________________________________________________________________
 
 </details>
 <details>
-<summary>▌ C O M M U N I C A T I O N ▐</summary>
+<summary>✔️▌ C O M M U N I C A T I O N ▐</summary>
 
-### 5/12
+### 12/12
 
 ✔️	**Communotron 16**	[longAntenna]
 
 ✔️	**Communotron 16-S**	[SurfAntenna]
 
-🔲	**Communotron 88-88**	[commDish]
+✔️	**Communotron 88-88**	[commDish]
 
 ✔️	**Communotron DTS-J1**	[restock-antenna-stack-2]
 
 ✔️	**Communotron DTS-M1**	[mediumDishAntenna]
 
-🔲	**Communotron HG-55**	[HighGainAntenna]
+✔️	**Communotron HG-55**	[HighGainAntenna]
 
-🔲	**Communotron HG-61**	[restock-antenna-stack-3]
+✔️	**Communotron HG-61**	[restock-antenna-stack-3]
 
-🔲	**HG-20 High Gain Antenna**		[restock-relay-radial-2_v2]
+✔️	**HG-20 High Gain Antenna**		[restock-relay-radial-2_v2]
 
-🔲	**HG-5 High Gain Antenna**	[HighGainAntenna5_v2]
+✔️	**HG-5 High Gain Antenna**	[HighGainAntenna5_v2]
 
 ✔️	**RA-100 Relay Antenna**	[RelayAntenna100]
 
-🔲	**RA-15 Relay Antenna**	[RelayAntenna50]
+✔️	**RA-15 Relay Antenna**	[RelayAntenna50]
 
-🔲	**RA-2 Relay Antenna**	[RelayAntenna5]
+✔️	**RA-2 Relay Antenna**	[RelayAntenna5]
 </details>
 <details>
 <summary>✔️▌ S C I E N C E ▐</summary>
@@ -987,7 +987,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌ U T I L I T Y ▐</summary>
 
-### 2/23 
+### 7/23 
 
 🔲	**Convert-O-Tron 125**			[MiniISRU]
 
@@ -1003,9 +1003,9 @@ ________________________________________________________________________________
 
 🔲	**Illuminator Mk2**			[spotLight2_v2]
 
-🔲	**Kelus Mobility Enhancer**			[telescopicLadder]
+✔️	**Kelus Mobility Enhancer**			[telescopicLadder]
 
-🔲	**Kelus-LV Bay Mobility Enhancer**		[telescopicLadderBay]
+✔️	**Kelus-LV Bay Mobility Enhancer**		[telescopicLadderBay]
 
 🔲	**Launch Escape System**			[LaunchEscapeSystem]
 
@@ -1031,11 +1031,11 @@ ________________________________________________________________________________
 
 🔲	**Navigation Light Mk1**			[navLight1]
 
-🔲	**Pegasus I Mobility Enhancer**		[ladder1]
+✔️	**Pegasus I Mobility Enhancer**		[ladder1]
 
-🔲	**Pegasus II Mobility Enhancer**		[restock-ladder-static-2]
+✔️	**Pegasus II Mobility Enhancer**		[restock-ladder-static-2]
 
-🔲	**Pegasus III Mobility Enhancer**		[restock-ladder-static-3]
+✔️	**Pegasus III Mobility Enhancer**		[restock-ladder-static-3]
 
 ✔️	**PPD-10 Hitchhiker Storage Container**	[crewCabin]
 

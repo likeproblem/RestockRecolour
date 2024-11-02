@@ -23,7 +23,7 @@ Download source, grab inside TURD(without license or readme, 1 folder), and put 
 * Just a silly issue, some parts such as TURD's jet engines and intakes, and radial science module, will appear transparent, however after you launch vessel return to VAB it will fix itself
 * Mk1-2 pod can't color top hatch for some reason
 
-* 5m Separator and Shielded Docking Port look ugly and it is easily fixable, but Restock doesn't allow it due to copyright, but fix could be done when feature comes from TU's side
+* 5m Separator and Shielded Docking Port look ugly and it is easily fixable, but Restock doesn't allow it due to copyright, but fix could be done when this PR completes(thanks @Halbann!): https://github.com/KSPModStewards/TexturesUnlimited/pull/4
 
 # Contribution!
 
