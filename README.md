@@ -4,7 +4,7 @@
 
 # Parts Done:
 
-### 167/340 [49.11%]
+### 171/340 [50.29%]
 
 **MOVED TO [WIKI](https://github.com/likeproblem/RestockRecolour/wiki/Part-List)**
 
