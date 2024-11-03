@@ -19,11 +19,9 @@ Download source, grab inside TURD(without license or readme, 1 folder), and put 
 * (pss, and my config maker too, very handy)
 
 # Known Issues:
-* Some stuff doesn't like switching meshes properly, for now only engine plate's fairing and HG-55 axial/radial, so after you switch it you have to switch to Default and Paint again
+* Some stuff doesn't like switching meshes properly, so after you switch variants you have to switch to Default and Paint again
 * Just a silly issue, some parts such as TURD's jet engines and intakes, and radial science module, will appear transparent, however after you launch vessel return to VAB it will fix itself
 * Mk1-2 pod can't color top hatch for some reason
-
-* 5m Separator and Shielded Docking Port look ugly and it is easily fixable, but Restock doesn't allow it due to copyright, but fix could be done when this PR completes(thanks @Halbann!): https://github.com/KSPModStewards/TexturesUnlimited/pull/4
 
 # Contribution!
 
