@@ -36,7 +36,7 @@ with open("output.txt", "w") as file:
     end_lines = []
     for i in Wiki.split("\n"):
         for j in out_lines:
-            if(i.find("["+j+"]") != -1 and i.find(u"\u2714") == -1):
+            if(i.find("["+j+"]") != -1 and (i.find(u"\u2714") == -1 and i.find(u"\u2705") == -1)):
                 end_lines.append(j)
     
     file.write("PARTS FOUND: \n\n" + "\n".join(out_lines) + "\n\n\n" + "PARTS NOT FOUND IN WIKI: \n\n" + "\n".join(more_lines) + "\n\n\n" + "PARTS NOT CHECKED OFF IN WIKI: \n\n" + "\n".join(end_lines))
