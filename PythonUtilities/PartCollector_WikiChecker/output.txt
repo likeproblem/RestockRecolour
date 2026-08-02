@@ -165,8 +165,16 @@ GrapplingDevice
 restock-service-bay-1875-1
 ServiceBay_125_v2
 ServiceBay_250_v2
+fairingSize1
+fairingSize2
+fairingSize3
+fairingSize1p5
+fairingSize4
+restock-fairing-base-0625-1
 Size_1_5_Cone
 noseCone
+pointyNoseConeA
+pointyNoseConeB
 restock-nosecone-0625-1
 standardNoseCone
 basicFin

@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 280/340(?, might be a miscount) [82%]
+# Parts Completed: 288/340(?, might be a miscount) [85%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
@@ -11,9 +11,9 @@ ________________________________________________________________________________
 
 * 🔲  Restock/Restock+ Part without a recolor
 
-* ✔️  Restock/Restock+ Part with completed recolor
+* ✔️  Restock/Restock+ Part with completed recolor AT LEAST for default variant
 
-* ✔️❗  Restock/Restock+ Part with completed recolor that has some kind of variant issue that needs fixing 
+* ✔️❗  Restock/Restock+ Part with completed recolor that has issues
 
 * 🔲❗ Restock/Restock+ Part without a recolor that has false TURD recolour, will need **!MODULE[KSPTextureSwitch],* {}**
 ____________________________________________________________________________________
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 --	_MK1 Cockpit_											[Mark1Cockpit]
 
-✔️❗	**MK1 Command Pod**									[mk1pod_v2]
+✔️	**MK1 Command Pod**									[mk1pod_v2]
 
 --	_MK1 Inline Cockpit_									[Mark2Cockpit]
 
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 			
 ✔️	**Probodyne RoveMate**									[roverBody_v2]	
 		
-✔️❗	**Probodyne Stayputnik**								[probeCoreSphere_v2]	
+✔️	**Probodyne Stayputnik**								[probeCoreSphere_v2]	
 	
 ✔️	**RC-001S Remote Guidance Unit**						[probeStackSmall]
 		
@@ -210,15 +210,15 @@ ________________________________________________________________________________
 
 --	_NCS Adapter_										[noseConeAdapter]
 
-✔️❗	**Oscar-A Liquid Fuel Tank**							[restock-fuel-tank-0625-5]
+✔️	**Oscar-A Liquid Fuel Tank**							[restock-fuel-tank-0625-5]
 
-✔️❗	**Oscar-B Liquid Fuel Tank**							[miniFuelTank]
+✔️	**Oscar-B Liquid Fuel Tank**							[miniFuelTank]
 
-✔️❗	**Oscar-C Liquid Fuel Tank**							[restock-fuel-tank-0625-3]
+✔️	**Oscar-C Liquid Fuel Tank**							[restock-fuel-tank-0625-3]
 
-✔️❗	**Oscar-D Liquid Fuel Tank**							[restock-fuel-tank-0625-2]
+✔️	**Oscar-D Liquid Fuel Tank**							[restock-fuel-tank-0625-2]
 
-✔️❗	**Oscar-E Liquid Fuel Tank**							[restock-fuel-tank-0625-1]
+✔️	**Oscar-E Liquid Fuel Tank**							[restock-fuel-tank-0625-1]
 
 🔲	**Oscar-O Liquid Fuel Tank Hemispherical Liquid Fuel Tank**     [restock-fueltank-sphere-0625-1]
 
@@ -304,9 +304,9 @@ ________________________________________________________________________________
 
 ✔️	**LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine**			[Size2LFB_v2]
 
-✔️	**LV-1 "Ant" Liquid Fuel Engine**						[microEngine_v2]
+✔️❗	**LV-1 "Ant" Liquid Fuel Engine**						[microEngine_v2]
 
-✔️	**LV-1R "Spider" Liquid Fuel Engine**					[radialEngineMini_v2]
+✔️❗	**LV-1R "Spider" Liquid Fuel Engine**					[radialEngineMini_v2]
 
 ✔️	**LV-303 "Pug" Liquid Fuel Engine**					[restock-engine-125-pug]
 
@@ -314,7 +314,7 @@ ________________________________________________________________________________
 
 ✔️	**LV-N "Nerv" Atomic Rocket Motor**						[nuclearEngine]
 
-✔️	**LV-N410 'Cherenkov' Atomic Rocket Motor**				[restock-engine-cherenkov]
+✔️❗	**LV-N410 'Cherenkov' Atomic Rocket Motor**				[restock-engine-cherenkov]
 
 ✔️	**LV-T15 'Valiant' Liquid Fuel Engine**					[restock-engine-125-valiant]
 
@@ -384,13 +384,13 @@ ________________________________________________________________________________
 	
 ✔️	**Place Anywhere 7 Linear RCS Port**					[linearRcs]
 
-✔️❗	**RV-105 RCS Thruster Block**							[RCSBlock_v2]
+✔️	**RV-105 RCS Thruster Block**							[RCSBlock_v2]
 
 ✔️	**RV-105-A RCS Thruster Block**							[restock-rcs-block-multi-2]
 
 ✔️	**RV-1X Variable Thruster Block**						[RCSblock_01_small]
 
-✔️❗	**RV-1X-A RCS Thruster Block**							[restock-rcs-block-multi-mini-2]
+✔️	**RV-1X-A RCS Thruster Block**							[restock-rcs-block-multi-mini-2]
 
 ✔️	**Small Inline Reaction Wheel**							[sasModule]
 
@@ -596,21 +596,21 @@ ________________________________________________________________________________
 
 </details>
 <details>
-<summary>▌ P A Y L O A D ▐</summary>
+<summary>✔️▌ P A Y L O A D ▐</summary>
 
-### 6/12
+### 12/12
 
-🔲	**AE-FF0 Airstream Protective Shell**					[restock-fairing-base-0625-1]
+✔️❗	**AE-FF0 Airstream Protective Shell**					[restock-fairing-base-0625-1]
 
-🔲	**AE-FF1 Airstream Protective Shell**					[fairingSize1]
+✔️❗	**AE-FF1 Airstream Protective Shell**					[fairingSize1]
 
-🔲	**AE-FF1.5 Airstream Protective Shell**					[fairingSize1p5]
+✔️❗	**AE-FF1.5 Airstream Protective Shell**					[fairingSize1p5]
 
-🔲	**AE-FF2 Airstream Protective Shell**					[fairingSize2]
+✔️❗	**AE-FF2 Airstream Protective Shell**					[fairingSize2]
 
-🔲	**AE-FF3 Airstream Protective Shell**					[fairingSize3]
+✔️❗	**AE-FF3 Airstream Protective Shell**					[fairingSize3]
 
-🔲	**AE-FF5 Airstream Protective Shell**					[fairingSize4]
+✔️❗	**AE-FF5 Airstream Protective Shell**					[fairingSize4]
 
 --	_Mk2 Cargo Bay CRG-04_								[mk2CargoBayS]
 
@@ -655,7 +655,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌ A E R O ▐</summary>
 
-### 8/13 
+### 10/13 
 
 --	_A.I.R.B.R.A.K.E.S._									[airbrake1]
 
@@ -665,9 +665,9 @@ ________________________________________________________________________________
 
 --	_Advanced Canard	_									[AdvancedCanard]
 
-🔲	**Advanced Nose Cone - Type A**							[pointyNoseConeA]
+✔️	**Advanced Nose Cone - Type A**							[pointyNoseConeA]
 
-🔲	**Advanced Nose Cone - Type B**						[pointyNoseConeB]
+✔️	**Advanced Nose Cone - Type B**						[pointyNoseConeB]
 
 ✔️	**Aeroynamic Nose Cone**								[noseCone]
 
@@ -723,7 +723,7 @@ ________________________________________________________________________________
 
 🔲	**Protective Rocket Nose Cone Mk7**					[rocketNoseCone_v3]
 
-✔️	**Protective Rocket Nose Cone Mk5A**					[Size_1_5_Cone]
+✔️❗❗	**Protective Rocket Nose Cone Mk5A**					[Size_1_5_Cone]
 
 --	_R-062 Ducted Fan Blade_							[smallFanBlade]
 
