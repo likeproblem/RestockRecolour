@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 295/340(?, might be a miscount) [87%]
+# Parts Completed: 304/340(?, might be a miscount) [89%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
@@ -104,7 +104,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌F U E L _ T A N K ▐</summary>
 
-### 43/55
+### 52/55
 
 --	_2.5m to MK2 Adapter_									[adapterSize2-Mk2]
 
@@ -120,7 +120,7 @@ ________________________________________________________________________________
 
 ✔️	**FL-A215 Fuel Tank Adapter**							[Size1p5_Size2_Adapter_01]
 
-🔲	**FL-C1000 Fuel Tank**									[Size1p5_Tank_05]
+✔️	**FL-C1000 Fuel Tank**									[Size1p5_Tank_05]
 
 ✔️	**FL-R120 RCS Fuel Tank**								[RCSFuelTank]
 
@@ -138,19 +138,19 @@ ________________________________________________________________________________
 
 ✔️	**FL-T400 Fuel Tank**									[fuelTank]
 
-🔲	**FL-T50R Hemispherical Liquid Fuel Tank**				[restock-fueltank-sphere-125-1]
+✔️	**FL-T50R Hemispherical Liquid Fuel Tank**				[restock-fueltank-sphere-125-1]
 
 ✔️	**FL-T800 Fuel Tank**									[fuelTank_long]
 
-🔲	**FL-TX1800 Fuel Tank**									[Size1p5_Tank_04]
+✔️	**FL-TX1800 Fuel Tank**									[Size1p5_Tank_04]
 
-🔲	**FL-TX220 Fuel Tank**									[Size1p5_Tank_01]
+✔️	**FL-TX220 Fuel Tank**									[Size1p5_Tank_01]
 
-🔲	**FL-TX220R Hemispherical Liquid Fuel Tank**			[restock-fueltank-sphere-1875-1]
+✔️	**FL-TX220R Hemispherical Liquid Fuel Tank**			[restock-fueltank-sphere-1875-1]
 
-🔲	**FL-TX440 Fuel Tank**									[Size1p5_Tank_02]
+✔️	**FL-TX440 Fuel Tank**									[Size1p5_Tank_02]
 
-🔲	**FL-TX900 Fuel Tank**									[Size1p5_Tank_03]
+✔️	**FL-TX900 Fuel Tank**									[Size1p5_Tank_03]
 
 ✔️	**FTE-1 Drain Valve**								[ReleaseValve]
 
@@ -220,7 +220,7 @@ ________________________________________________________________________________
 
 ✔️	**Oscar-E Liquid Fuel Tank**							[restock-fuel-tank-0625-1]
 
-🔲	**Oscar-O Liquid Fuel Tank Hemispherical Liquid Fuel Tank**     [restock-fueltank-sphere-0625-1]
+✔️	**Oscar-O Liquid Fuel Tank Hemispherical Liquid Fuel Tank**     [restock-fueltank-sphere-0625-1]
 
 🔲	**PB-X150 Xenon Container**								[xenonTank]
 
@@ -244,7 +244,7 @@ ________________________________________________________________________________
 
 ✔️	**Rockomax X200-32 Fuel Tank**							[Rockomax32_BW]
 
-🔲	**Rockomax X200-4R Hemispherical Liquid Fuel Tank**		[restock-fueltank-sphere-25-1]
+✔️	**Rockomax X200-4R Hemispherical Liquid Fuel Tank**		[restock-fueltank-sphere-25-1]
 
 ✔️	**Rockomax Jumbo-64 Fuel Tank**							[Rockomax8BW]
 
@@ -997,9 +997,9 @@ ________________________________________________________________________________
 
 ✔️	**Illuminator Mk2**			[spotLight2_v2]
 
-✔️	**Kelus Mobility Enhancer**			[telescopicLadder]
+✔️❗️❗️	**Kelus Mobility Enhancer**			[telescopicLadder]
 
-✔️	**Kelus-LV Bay Mobility Enhancer**		[telescopicLadderBay]
+✔️❗️	**Kelus-LV Bay Mobility Enhancer**		[telescopicLadderBay]
 
 🔲	**Launch Escape System**			[LaunchEscapeSystem]
 
