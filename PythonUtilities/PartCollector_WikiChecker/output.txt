@@ -59,6 +59,10 @@ rcsTankMini
 RCSTank1-2
 restock-fuel-tank-rcs-375-1
 Size1p5_Monoprop
+Size1p5_Size0_Adapter_01
+Size1p5_Size1_Adapter_01
+Size1p5_Size1_Adapter_02
+Size1p5_Size2_Adapter_01
 Size2LFB_v2
 nuclearEngine
 restock-engine-cherenkov
@@ -172,6 +176,7 @@ fairingSize1p5
 fairingSize4
 restock-fairing-base-0625-1
 Size_1_5_Cone
+rocketNoseConeSize4
 noseCone
 pointyNoseConeA
 pointyNoseConeB
@@ -182,6 +187,8 @@ winglet
 R8winglet
 winglet3
 winglet3
+rocketNoseCone_v3
+rocketNoseConeSize3
 HeatShield1
 HeatShield2
 HeatShield1p5

@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 288/340(?, might be a miscount) [85%]
+# Parts Completed: 295/340(?, might be a miscount) [87%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
@@ -104,7 +104,7 @@ ________________________________________________________________________________
 <details>
 <summary>▌F U E L _ T A N K ▐</summary>
 
-### 39/55
+### 43/55
 
 --	_2.5m to MK2 Adapter_									[adapterSize2-Mk2]
 
@@ -112,13 +112,13 @@ ________________________________________________________________________________
 
 ❓	_C7 Brand Adapter Slanted- 2.5m to 1.5m_				[adapterSize2-Size1Slant]
 
-🔲	**FL-A150 Fuel Tank Adapter**							[Size1p5_Size0_Adapter_01]
+✔️	**FL-A150 Fuel Tank Adapter**							[Size1p5_Size0_Adapter_01]
 
-🔲	**FL-A151L Fuel Tank Adapter**							[Size1p5_Size1_Adapter_01]
+✔️	**FL-A151L Fuel Tank Adapter**							[Size1p5_Size1_Adapter_01]
 
-🔲	**FL-A151S Fuel Tank Adapter**							[Size1p5_Size1_Adapter_02]
+✔️	**FL-A151S Fuel Tank Adapter**							[Size1p5_Size1_Adapter_02]
 
-🔲	**FL-A215 Fuel Tank Adapter**							[Size1p5_Size2_Adapter_01]
+✔️	**FL-A215 Fuel Tank Adapter**							[Size1p5_Size2_Adapter_01]
 
 🔲	**FL-C1000 Fuel Tank**									[Size1p5_Tank_05]
 
@@ -653,9 +653,9 @@ ________________________________________________________________________________
 
 </details>
 <details>
-<summary>▌ A E R O ▐</summary>
+<summary>✔️▌ A E R O ▐</summary>
 
-### 10/13 
+### 13/13 
 
 --	_A.I.R.B.R.A.K.E.S._									[airbrake1]
 
@@ -717,13 +717,13 @@ ________________________________________________________________________________
 
 --	_Propeller Blade Type S_								[largePropeller]
 
-🔲	**Protective Rocket Nose Cone Mk12A**					[rocketNoseConeSize3]
+✔️	**Protective Rocket Nose Cone Mk12A**					[rocketNoseConeSize3]
 
-🔲	**Protective Rocket Nose Cone Mk16A**					[rocketNoseConeSize4]
+✔️	**Protective Rocket Nose Cone Mk16A**					[rocketNoseConeSize4]
 
-🔲	**Protective Rocket Nose Cone Mk7**					[rocketNoseCone_v3]
+✔️	**Protective Rocket Nose Cone Mk7**					[rocketNoseCone_v3]
 
-✔️❗❗	**Protective Rocket Nose Cone Mk5A**					[Size_1_5_Cone]
+✔️	**Protective Rocket Nose Cone Mk5A**					[Size_1_5_Cone]
 
 --	_R-062 Ducted Fan Blade_							[smallFanBlade]
 
