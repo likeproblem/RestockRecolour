@@ -23,6 +23,9 @@ Mk2Pod
 landerCabinSmall
 MEMLander
 probeCoreSphere_v2
+xenonTank
+xenonTankRadial
+xenonTankLarge
 ReleaseValve
 Rockomax64_BW
 Rockomax32_BW
@@ -72,6 +75,7 @@ restock-fueltank-sphere-125-1
 restock-fueltank-sphere-1875-1
 restock-fueltank-sphere-0625-1
 restock-fueltank-sphere-25-1
+restock-fueltank-sphere-375-1
 Size2LFB_v2
 nuclearEngine
 restock-engine-cherenkov
@@ -112,6 +116,11 @@ RCSBlock_v2
 RCSblock_01_small
 restock-rcs-block-multi-2
 restock-rcs-block-multi-mini-2
+adapterSmallMiniTall
+adapterSmallMiniShort
+restock-adapter-1875-125-1
+restock-adapter-1875-25-1
+launchClamp1
 Tube1
 Tube1p5
 Tube2
@@ -175,6 +184,9 @@ EnginePlate2
 EnginePlate1p5
 smallClaw
 GrapplingDevice
+ServiceModule25
+ServiceModule18
+Size1to0ServiceModule
 restock-service-bay-1875-1
 ServiceBay_125_v2
 ServiceBay_250_v2
@@ -269,6 +281,12 @@ SurfaceScanner
 InfraredTelescope
 Magnetometer
 Large_Crewed_Lab
+MiniDrill
+RadialDrill
+LaunchEscapeSystem
+restock-engine-les-2
+ISRU
+MiniISRU
 parachuteLarge
 parachuteSingle
 radialDrogue

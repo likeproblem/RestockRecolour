@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/40c542ef-8baa-40dd-97ef-0c73e91bdf65)
-# Parts Completed: 304/340(?, might be a miscount) [89%]
+# Parts Completed: 453/494(?, might be a miscount) [91%]
 
 This Wiki details the parts which RestockRecolour will be working with.  Because of the complicated nature of this mod, this list consists of **ALL** parts that would appear if a user were to install Kerbal Space Program, its expansions, Breaking Ground and Making History, and the mods Restock and Restock+.  The parts which are specifically affected by Restock/Restock+ are indicated with **BOLD PART NAMES**, while parts that Restock/Restock+ does not affect (aside from possibly adding depthmasks) are indicated with _italics_
 
@@ -14,515 +14,577 @@ ________________________________________________________________________________
 * ✔️  Restock/Restock+ Part with completed recolor AT LEAST for default variant
 
 * ✔️❗  Restock/Restock+ Part with completed recolor that has issues
-
-* 🔲❗ Restock/Restock+ Part without a recolor that has false TURD recolour, will need **!MODULE[KSPTextureSwitch],* {}**
 ____________________________________________________________________________________
 
-* --  Stock/MH/BG Part that has working TURD configs compatible with TU_Restock
-
-* ❓  Stock/MH/BG Part that has broken TURD configs, some incompatibility with TU_Restock
-
-* ⬜ Stock/MH/BG Part that _NEVER_ had a TURD config in the first place
-
-* ✅  Stock/MH/BG Part that _had_ broken TURD configs, which were fixed, & parts that never had a recolor config that now do.
+* ✅  Stock/MH/BG Part that has working TURD configs compatible with TU_Restock
 ____________________________________________________________________________________
 **ADDITIONAL INDICATORS**
 
-* ✴️ This mark indicates a part with _multiple_ variants, and it means that ALL of those variants are confirmed to have working recolors.
-
-* 🔄 Indicates a part which has **working** recolors that is entirely missing recolors for one or more of its variants.  Such parts _may_ call for the more complicated 'VariantSwitch'-style recolors or Spartwo's method.  These parts need more attention.
+* ✴️ This mark indicates a part has all variants working correctly and passed quality control.
 _________________________________________________________________________________
 <details>
 <summary>✔️▌C O M M A N D▐</summary>
 
-### 22/22
+### 31/31
 
-✔️	**EAS-1 External Command Seat**							[seatExternalCmd]
-
-✔️	**KV-1 "Onion" Reentry Module**							[kv1Pod]
-
-✔️	**KV-2 "Pea" Reentry Module**							[kv2Pod]
-
-✔️	**KV-3 "Pomegranate" Reentry Module**					[kv3Pod]
-
---	_MK1 Cockpit_											[Mark1Cockpit]
-
-✔️	**MK1 Command Pod**									[mk1pod_v2]
-
---	_MK1 Inline Cockpit_									[Mark2Cockpit]
-
-✔️	**MK1 Lander Can**									[landerCabinSmall]
-
-✔️	**MK1-3 Command Pod**									[mk1-3pod]
-
-✔️	**Cupola**									[cupola]
-
---	_MK2 Cockpit_											[mk2Cockpit_Standard]
-
-✔️	**MK2 Command Pod**										[Mk2Pod]
-
---	_MK2 Drone Core_										[mk2DroneCore]
-		
---	_MK2 Inline Cockpit_									[mk2Cockpit_Inline]
-	
-✔️	**MK2 Lander Can**										[mk2LanderCabin_v2]
-
---	_MK3 Cockpit_											[mk3Cockpit_Shuttle]	
-
---	_MPO Probe_											[MpoProbe]
-
---	_MTM Stage_											[MtmStage]
-	
-✅	_Munar Excursion Module (M.E.M.)_						[MEMLander]
-		
-✔️	**Probodyne HECS**										[probeCoreHex_v2]
-	
-✔️	**Probodyne HECS2**										[HECS2_ProbeCore]
-		
-✔️	**Probodyne OCTO**										[probeCoreOcto_v2]
-		
-✔️	**Probodyne OCTO2**										[probeCoreOcto2_v2]
-		
-✔️	**Probodyne QBE**										[probeCoreCube]
-			
-✔️	**Probodyne RoveMate**									[roverBody_v2]	
-		
-✔️	**Probodyne Stayputnik**								[probeCoreSphere_v2]	
-	
-✔️	**RC-001S Remote Guidance Unit**						[probeStackSmall]
-		
-✔️	**RC-L01 Remote Guidance Unit**							[probeStackLarge]
-		
-✔️	**RC-M001 Remote Guidance Unit**						[restock-drone-core-1875-1]
-	
-✔️	**RC-XL001 Remote Guidance Unit**						[restock-drone-core-375-1]
-	
-✔️	**RC-XS1 Remote Guidance Unit**							[restock-drone-core-0625-1]
+✔️[seatExternalCmd]
+ 
+✔️[kv1Pod]
+ 
+✔️[kv2Pod]
+ 
+✔️[kv3Pod]
+ 
+✅[Mark1Cockpit]
+ 
+✔️[mk1pod_v2]
+ 
+✅[Mark2Cockpit]
+ 
+✔️[landerCabinSmall]
+ 
+✔️[mk1-3pod]
+ 
+✅[mk2Cockpit_Standard]
+ 
+✔️[Mk2Pod]
+ 
+✅[mk2DroneCore]
+ 
+✅[mk2Cockpit_Inline]
+ 
+✔️[mk2LanderCabin_v2]
+ 
+✅[mk3Cockpit_Shuttle]
+ 
+✅[MpoProbe]
+ 
+✅[MtmStage]
+ 
+✔️[MEMLander]
+ 
+✔️[cupola]
+ 
+✔️[probeCoreHex_v2]
+ 
+✔️[HECS2_ProbeCore]
+ 
+✔️[probeCoreOcto_v2]
+ 
+✔️[probeCoreOcto2_v2]
+ 
+✔️[probeCoreCube]
+ 
+✔️[roverBody_v2]
+ 
+✔️[probeCoreSphere_v2]
+ 
+✔️[probeStackSmall]
+ 
+✔️[probeStackLarge]
+ 
+✔️[restock-drone-core-1875-1]
+ 
+✔️[restock-drone-core-375-1]
+ 
+✔️[restock-drone-core-0625-1]
+ 
 
 
 </details>
 <details>
 <summary>▌F U E L _ T A N K ▐</summary>
 
-### 52/55
-
---	_2.5m to MK2 Adapter_									[adapterSize2-Mk2]
-
-❓	_C7 Brand Adapter- 2.5m to 1.5m_						[adapterSize2-Size1]
-
-❓	_C7 Brand Adapter Slanted- 2.5m to 1.5m_				[adapterSize2-Size1Slant]
-
-✔️	**FL-A150 Fuel Tank Adapter**							[Size1p5_Size0_Adapter_01]
-
-✔️	**FL-A151L Fuel Tank Adapter**							[Size1p5_Size1_Adapter_01]
-
-✔️	**FL-A151S Fuel Tank Adapter**							[Size1p5_Size1_Adapter_02]
-
-✔️	**FL-A215 Fuel Tank Adapter**							[Size1p5_Size2_Adapter_01]
-
-✔️	**FL-C1000 Fuel Tank**									[Size1p5_Tank_05]
-
-✔️	**FL-R120 RCS Fuel Tank**								[RCSFuelTank]
-
-✔️	**FL-R20 RCS Fuel Tank**								[rcsTankMini]
-
-✔️	**FL-R400 RCS Fuel Tank**								[Size1p5_Monoprop]
-
-✔️	**FL-R750 RCS Fuel Tank**								[RCSTank1-2]
-
-✔️	**FL-S1 RCS Fuel Tank**									[restock-fuel-tank-rcs-375-1]
-
-✔️	**FL-T100 Fuel Tank**									[fuelTankSmallFlat]
-
-✔️	**FL-T200 Fuel Tank**									[fuelTankSmall]
-
-✔️	**FL-T400 Fuel Tank**									[fuelTank]
-
-✔️	**FL-T50R Hemispherical Liquid Fuel Tank**				[restock-fueltank-sphere-125-1]
-
-✔️	**FL-T800 Fuel Tank**									[fuelTank_long]
-
-✔️	**FL-TX1800 Fuel Tank**									[Size1p5_Tank_04]
-
-✔️	**FL-TX220 Fuel Tank**									[Size1p5_Tank_01]
-
-✔️	**FL-TX220R Hemispherical Liquid Fuel Tank**			[restock-fueltank-sphere-1875-1]
-
-✔️	**FL-TX440 Fuel Tank**									[Size1p5_Tank_02]
-
-✔️	**FL-TX900 Fuel Tank**									[Size1p5_Tank_03]
-
-✔️	**FTE-1 Drain Valve**								[ReleaseValve]
-
-✔️	**FTX-2 External Fuel Duct**						[fuelLine]
-
-✔️	**Jumbo Holding Tank**									[restock-oretank-375-1]
-
-✔️	**Kerbodyne S4-64 Fuel Tank**	[Size4_Tank_01]
-
-✔️	**Kerbodyne S4-128 Fuel Tank**	[Size4_Tank_02]
-
-✔️	**Kerbodyne S4-256 Fuel Tank**	[Size4_Tank_03]
-
-✔️	**Kerbodyne S4-512 Fuel Tank**	[Size4_Tank_04]
-
-✔️	**Medium Holding Tank**									[restock-oretank-1875-1]
-
---	_Mk0 Liquid Fuel Fuselage_							[miniFuselage]
-
---	_Mk1 Liquid Fuel Fuselage_							[MK1Fuselage]
-
---	_Mk2 Bicoupler_									[mk2_1m_Bicoupler]
-	
---	_Mk2 Liquid Fuel Fuselage_							[mk2Fuselage]
-
---	_Mk2 Liquid Fuel Fuselage Short_						[mk2FuselageShortLiquid]
-
---	_Mk2 Monopropellant Tank_								[mk2FuselageShortMono]
-
---	_Mk2 Rocket Fuel Fuselage_							[mk2FuselageLongLFO]
-
---	_Mk2 Rocket Fuel Fuselage Short_						[mk2FuselageShortLFO]
-
---	_Mk2 to 1.5m Adapter_									[mk2SpacePlaneAdapter]
-
---	_Mk3 Liquid Fuel Fuselage_							[mk3FuselageLF_50]
-
---	_Mk3 Liquid Fuel Fuselage Long_						[mk3FuselageLF_100]
-
---	_Mk3 Liquid Fuel Fuselage Short_						[mk3FuselageLF_25]
-
---	_Mk3 Monopropellant Tank_								[mk3FuselageMONO]
-
---	_Mk3 Rocket Fuel Fuselage_							[mk3FuselageLFO_50]
-
---	_Mk3 Rocket Fuel Fuselage Long_						[mk3FuselageLFO_100]
-
---	_Mk3 Rocket Fuel Fuselage Short_						[mk3FuselageLFO_25]
-
---	_Mk3 to 2.5m Adapter_									[adapterMk3-Size2]
-
---	_Mk3 to 2.5m Adapter Slanted_							[adapterMk3-Size2Slant]	
-
---	_Mk3 to 3.75m Adapter_								[adapterSize3-Mk3]
-
---	_Mk3 to Mk2 Adapter_									[adapterMk3-Mk2]
-
---	_NCS Adapter_										[noseConeAdapter]
-
-✔️	**Oscar-A Liquid Fuel Tank**							[restock-fuel-tank-0625-5]
-
-✔️	**Oscar-B Liquid Fuel Tank**							[miniFuelTank]
-
-✔️	**Oscar-C Liquid Fuel Tank**							[restock-fuel-tank-0625-3]
-
-✔️	**Oscar-D Liquid Fuel Tank**							[restock-fuel-tank-0625-2]
-
-✔️	**Oscar-E Liquid Fuel Tank**							[restock-fuel-tank-0625-1]
-
-✔️	**Oscar-O Liquid Fuel Tank Hemispherical Liquid Fuel Tank**     [restock-fueltank-sphere-0625-1]
-
-🔲	**PB-X150 Xenon Container**								[xenonTank]
-
-🔲	**PB-X750 Xenon Container**								[xenonTankRadial]
-
-🔲	**PB-X50R Xenon Container**								[xenonTankLarge]
-
-✔️	**PRBE-4 Liquid Fuel Tank**								[restock-fuel-tank-probe-2]
-
-✔️	**PRBE-9 Liquid Fuel Tank**								[restock-fuel-tank-probe-1]
-
-✔️❗	**R-11 'Baguette' External Tank**					[externalTankCapsule]
-
-✔️❗	**R-12 'Doughnut' External Tank**						[externalTankToroid]
-
-✔️❗	**R-4 'Dumpling' External Tank**						[externalTankRound]
-
-✔️	**Rockomax Jumbo-64 Fuel Tank**							[Rockomax64_BW]
-
-✔️	**Rockomax X200-16 Fuel Tank**							[Rockomax16_BW]
-
-✔️	**Rockomax X200-32 Fuel Tank**							[Rockomax32_BW]
-
-✔️	**Rockomax X200-4R Hemispherical Liquid Fuel Tank**		[restock-fueltank-sphere-25-1]
-
-✔️	**Rockomax Jumbo-64 Fuel Tank**							[Rockomax8BW]
-
-✔️	**Radial Holding Tank**									[RadialOreTank]
-
-✔️	**Small Holding Tank**									[SmallTank]
-
-✔️	**Large Holding Tank**									[LargeTank]
-
-✔️	**Jumbo Holding Tank**									[restock-oretank-375-1]
-
-✔️	**Medium Holding Tank**									[restock-oretank-1875-1]
-
-✔️	**Stratus-V Cylinrified Monopropellant Tank**			[rcsTankRadialLong]
-
-✔️	**Stratus-V Minified Monopropellant Tank**				[monopropMiniSphere]
-
-✔️	**Stratus-V Roundified Monopropellant Tank**			[radialRCSTank]
+### 78/87
+
+✅[adapterSize2-Mk2]
+ 
+🔲[adapterSize2-Size1]
+ 
+🔲[adapterSize2-Size1Slant]
+ 
+✔️[Size1p5_Size0_Adapter_01]
+ 
+✔️[Size1p5_Size1_Adapter_01]
+ 
+✔️[Size1p5_Size1_Adapter_02]
+ 
+✔️[Size1p5_Size2_Adapter_01]
+ 
+✔️[Size1p5_Tank_05]
+ 
+✔️[RCSFuelTank]
+ 
+✔️[rcsTankMini]
+ 
+✔️[Size1p5_Monoprop]
+ 
+✔️[RCSTank1-2]
+ 
+✔️[restock-fuel-tank-rcs-375-1]
+ 
+✔️[fuelTankSmallFlat]
+ 
+✔️[fuelTankSmall]
+ 
+✔️[fuelTank]
+ 
+✔️[restock-fueltank-sphere-125-1]
+ 
+✔️[fuelTank_long]
+ 
+✔️[Size1p5_Tank_04]
+ 
+✔️[Size1p5_Tank_01]
+ 
+✔️[restock-fueltank-sphere-1875-1]
+ 
+✔️[Size1p5_Tank_02]
+ 
+✔️[Size1p5_Tank_03]
+ 
+✔️[ReleaseValve]
+ 
+✔️[fuelLine]
+ 
+✔️[restock-oretank-375-1]
+ 
+🔲[Size3To2Adapter_v2]
+ 
+🔲[Size4_EngineAdapter_01]
+ 
+🔲[Size3LargeTank]
+ 
+🔲[restock-fuel-tank-375-4]
+ 
+🔲[restock-nosecone-375-1]
+ 
+🔲[Size3SmallTank]
+ 
+🔲[Size3MediumTank]
+ 
+✔️[restock-fueltank-sphere-375-1]
+ 
+🔲[Size3_Size4_Adapter_01]
+ 
+✔️[Size4_Tank_02]
+ 
+✔️[Size4_Tank_03]
+ 
+✔️[Size4_Tank_04]
+ 
+✔️[Size4_Tank_01]
+ 
+✔️[LargeTank]
+ 
+✔️[restock-oretank-1875-1]
+ 
+✅[miniFuselage]
+ 
+✅[MK1Fuselage]
+ 
+✅[mk2_1m_Bicoupler]
+ 
+✅[mk2Fuselage]
+ 
+✅[mk2FuselageShortLiquid]
+ 
+✅[mk2FuselageShortMono]
+ 
+✅[mk2FuselageLongLFO]
+ 
+✅[mk2FuselageShortLFO]
+ 
+✅[mk2SpacePlaneAdapter]
+ 
+✅[mk2_1m_AdapterLong]
+ 
+✅[mk3FuselageLF_50]
+ 
+✅[mk3FuselageLF_100]
+ 
+✅[mk3FuselageLF_25]
+ 
+✅[mk3FuselageMONO]
+ 
+✅[mk3FuselageLFO_50]
+ 
+✅[mk3FuselageLFO_100]
+ 
+✅[mk3FuselageLFO_25]
+ 
+✅[adapterMk3-Size2]
+ 
+✅[adapterMk3-Size2Slant]
+ 
+✅[adapterSize3-Mk3]
+ 
+✅[adapterMk3-Mk2]
+ 
+✅[noseConeAdapter]
+ 
+✔️[restock-fuel-tank-0625-5]
+ 
+✔️[miniFuelTank]
+ 
+✔️[restock-fuel-tank-0625-3]
+ 
+✔️[restock-fuel-tank-0625-2]
+ 
+✔️[restock-fuel-tank-0625-1]
+ 
+✔️[restock-fueltank-sphere-0625-1]
+ 
+✔️[xenonTank]
+ 
+✔️[xenonTankRadial]
+ 
+✔️[xenonTankLarge]
+ 
+✔️[restock-fuel-tank-probe-2]
+ 
+✔️[restock-fuel-tank-probe-1]
+ 
+✔️❗[externalTankCapsule]
+ 
+✔️❗[externalTankToroid]
+ 
+✔️❗[externalTankRound]
+ 
+✔️[RadialOreTank]
+ 
+✔️[Rockomax64_BW]
+ 
+✔️[Rockomax16_BW]
+ 
+✔️[Rockomax32_BW]
+ 
+✔️[restock-fueltank-sphere-25-1]
+ 
+✔️[Rockomax8BW]
+ 
+✔️[SmallTank]
+ 
+✔️[rcsTankRadialLong]
+ 
+✔️[monopropMiniSphere]
+ 
+✔️[radialRCSTank]
+ 
 
 </details>
 <details>
 <summary>▌ E N G I N E ▐</summary>
 
-### 30/43
+### 35/48
 
-✔️	**24-77 "Twitch" Liquid Fuel Engine**					[smallRadialEngine_v2]
-
-✔️	**48-7S "Spark" Liquid Fuel Engine**					[liquidEngineMini_v2]
-
-✔️	**BACC "Thumper" Solid Fuel Booster**					[solidBooster1-1]
-
-✔️	**CR-7 R.A.P.I.E.R. Engine**							[RAPIER]
-
-✔️	**F3S0 "Shrimp" Solid Fuel Booster**					[Shrimp]
-
-✔️	**FM1 "Mite" Solid Fuel Booster**						[Mite]
-
-✔️	**IX-6315 "Dawn" Electric Propulsion System**			[ionEngine]
-
---	_J-20 "Juno" Basic Jet Engine_						[miniJetEngine]	
-
---	_J-33 Wheesley Turbofan Engine_						[JetEngine]
-
---	_J-404 "Panther" Afterburning Turbofan_				[turboJet]
-
---	_J-90 "Goliath" Turbofan Engine_						[turboFanSize2]	
-
-🔲	**J-X4 "Whiplash" Turbo Ramjet Engine**					[turboFanEngine]
-
-🔲	**Kerbodyne KE-1 "Mastodon" Liquid Fuel Engine**		[LiquidEngineKE-1]
-
-🔲	**Kerbodyne KR-2l+ "Rhino" Liquid Fuel Engine**			[Size3AdvancedEngine]
-
-🔲	**KR-1 "Boar" Liquid Fuel Engine**						[restock-engine-boar]
-
-🔲	**KR-10A 'Corgi' Liquid Fuel Engine Cluster**			[restock-engine-375-corgi]
-
-✔️	**LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine**			[Size2LFB_v2]
-
-✔️❗	**LV-1 "Ant" Liquid Fuel Engine**						[microEngine_v2]
-
-✔️❗	**LV-1R "Spider" Liquid Fuel Engine**					[radialEngineMini_v2]
-
-✔️	**LV-303 "Pug" Liquid Fuel Engine**					[restock-engine-125-pug]
-
-✔️	**LV-909 "Terrier" Liquid Fuel Engine**					[liquidEngine3_v2]
-
-✔️	**LV-N "Nerv" Atomic Rocket Motor**						[nuclearEngine]
-
-✔️❗	**LV-N410 'Cherenkov' Atomic Rocket Motor**				[restock-engine-cherenkov]
-
-✔️	**LV-T15 'Valiant' Liquid Fuel Engine**					[restock-engine-125-valiant]
-
-✔️	**LV-T30 "Reliant" Liquid Fuel Engine**					[liquidEngine_v2]
-
-✔️	**LV-T45 "Swivel" Liquid Fuel Engine** 					[liquidEngine2_v2]
-
-✔️	**LV-T91 "Cheetah" Liquid Fuel Engine** 				[LiquidEngineLV-T91]
-
-🔲	**LV-TX87 "Bobcat" Liquid Fuel Engine**					[LiquidEngineLV-TX87]
-
-✔️	**Mk-1H 'Torch' Liquid Fuel Engine**					[restock-engine-torch]
-
-✔️	_MK-55 "Thud" Liquid Fuel Engine_						[radialLiquidEngine1-2]
-
-✔️	**O-10 "Puff" MonoPropellant Fuel Engine**				[omsEngine]
-
-🔲	**RE-I2 "Skiff" Liquid Fuel Engine**					[LiquidEngineRE-I2]
-
-🔲	**RE-I5 "Skipper"	Liquid Fuel Engine**					[engineLargeSkipper_v2]
-
-🔲	**RE-J10 "Wolfhound" Liquid Fuel Engine**				[LiquidEngineRE-J10]
-
-✔️	**RE-L10 "Poodle"	Liquid Fuel Engine**					[liquidEngine2-2_v2]
-
-✔️	**RE-M3 "Mainsail" Liquid Fuel Engine**					[liquidEngineMainsail_v2]
-
-✔️	**RK-7 "Kodiak" Liquid Fuel Engine**					[LiquidEngineRK-7]
-
-✔️	**RT-10 "Hammer" Solid Fuel Booster**					[solidBooster_v2]
-
-✔️	**RT-5 "Flea" Solid Fuel Booster**						[solidBooster_sm_v2]
-
-✔️	**RV-1 "Cub" Vernier Engine**							[LiquidEngineRV-1]
-
-🔲	**S1 SRB-K25k "Kickback" Solid Fuel Booster**			[MassiveBooster]
-
-🔲	**S2-17 "Thoroughbred" Solid Fuel Booster** 			[Thoroughbred]
-
-🔲	**S2-33 "Clydesdale" Solid Fuel Booster**				[Clydesdale]
-
-✔️	**S3 KS-25 "Vector" Liquid Fuel Engine**				[SSME]
-
-🔲	**S3 KS-25x4 "Mammoth" Liquid Fuel Engine**				[Size3EngineCluster]
-
-✔️	**Sepratron I**											[sepMotor1]
-
-✔️	**T-1 Toroidal Aerospike "Dart" Liquid Fuel Engine**	[toroidalAerospike]
-
-🔲	**TXK "Pollux" Solid Fuel Booster**						[Pollux]
+✔️[smallRadialEngine_v2]
+ 
+✔️[liquidEngineMini_v2]
+ 
+✔️[solidBooster1-1]
+ 
+✔️[RAPIER]
+ 
+✔️[Shrimp]
+ 
+✔️[Mite]
+ 
+✔️[ionEngine]
+ 
+✅[miniJetEngine]
+ 
+✅[JetEngine]
+ 
+✅[turboJet]
+ 
+✅[turboFanSize2]
+ 
+✅[turboFanEngine]
+ 
+🔲[LiquidEngineKE-1]
+ 
+🔲[Size3AdvancedEngine]
+ 
+🔲[restock-engine-boar]
+ 
+🔲[restock-engine-375-corgi]
+ 
+✔️[Size2LFB_v2]
+ 
+✔️❗[microEngine_v2]
+ 
+✔️❗[radialEngineMini_v2]
+ 
+✔️[restock-engine-125-pug]
+ 
+✔️[liquidEngine3_v2]
+ 
+✔️[nuclearEngine]
+ 
+✔️❗[restock-engine-cherenkov]
+ 
+✔️[restock-engine-125-valiant]
+ 
+✔️[liquidEngine_v2]
+ 
+✔️[liquidEngine2_v2]
+ 
+✔️[LiquidEngineLV-T91]
+ 
+🔲[LiquidEngineLV-TX87]
+ 
+✔️[restock-engine-torch]
+ 
+✔️[radialLiquidEngine1-2]
+ 
+✔️[omsEngine]
+ 
+🔲[LiquidEngineRE-I2]
+ 
+🔲[engineLargeSkipper_v2]
+ 
+🔲[LiquidEngineRE-J10]
+ 
+✔️[liquidEngine2-2_v2]
+ 
+✔️[liquidEngineMainsail_v2]
+ 
+✔️[LiquidEngineRK-7]
+ 
+✔️[solidBooster_v2]
+ 
+✔️[solidBooster_sm_v2]
+ 
+✔️[LiquidEngineRV-1]
+ 
+🔲[MassiveBooster]
+ 
+🔲[Thoroughbred]
+ 
+🔲[Clydesdale]
+ 
+✔️[SSME]
+ 
+🔲[Size3EngineCluster]
+ 
+✔️[sepMotor1]
+ 
+✔️[toroidalAerospike]
+ 
+🔲[Pollux]
+ 
 
 </details>
 <details>
 <summary>✔️▌ C O N T R O L ▐</summary>
 
-### 12/12
+### 13/13
 
-✔️	**Advanced Inline Stabilizer**							[advSasModule]
-
-✔️	**Advanced Reaction Wheel Module, Large**				[asasmodule1-2]
-
---	_CH-J3 Fly-By-Wire Avionics Hub_						[avionicsNoseCone]
-
-✔️	**Medium Reaction Wheel Assembly**						[restock-reactionwheel-1875-1]
-
-✔️	**Place Anywhere 1 Linear RCS Port**					[RCSLinearSmall]
-	
-✔️	**Place Anywhere 7 Linear RCS Port**					[linearRcs]
-
-✔️	**RV-105 RCS Thruster Block**							[RCSBlock_v2]
-
-✔️	**RV-105-A RCS Thruster Block**							[restock-rcs-block-multi-2]
-
-✔️	**RV-1X Variable Thruster Block**						[RCSblock_01_small]
-
-✔️	**RV-1X-A RCS Thruster Block**							[restock-rcs-block-multi-mini-2]
-
-✔️	**Small Inline Reaction Wheel**							[sasModule]
-
-✔️	**Small Radial Gyroscope**								[restock-reactionwheel-radial-1]
-
-✔️	**Vernor Engine**										[vernierEngine]
+✔️[advSasModule]
+ 
+✔️[asasmodule1-2]
+ 
+✔️[avionicsNoseCone]
+ 
+✔️[restock-reactionwheel-1875-1]
+ 
+✔️[RCSLinearSmall]
+ 
+✔️[linearRcs]
+ 
+✔️[RCSBlock_v2]
+ 
+✔️[restock-rcs-block-multi-2]
+ 
+✔️[RCSblock_01_small]
+ 
+✔️[restock-rcs-block-multi-mini-2]
+ 
+✔️[sasModule]
+ 
+✔️[restock-reactionwheel-radial-1]
+ 
+✔️[vernierEngine]
+ 
 
 </details>
 <details>
 <summary>▌ S T R U C T U R A L ▐</summary>
 
-### 44/51
+### 56/60
 
-✔️	**BZ-26 Radial Attachment Point Jr.**					[restock-node-625-1]
+✔️[restock-node-625-1]
+ 
+✔️[stackPoint1]
+ 
+✔️[restock-node-1875-1]
+ 
+✔️[strutCube]
+ 
+✔️[strutConnector]
+ 
+✔️[adapterSmallMiniTall]
+ 
+✔️[adapterSmallMiniShort]
+ 
+✔️[restock-adapter-1875-125-1]
+ 
+✔️[restock-adapter-1875-25-1]
+ 
+✅[sGripPad]
+ 
+✅[mGripPad]
+ 
+✅[lGripPad]
+ 
+✅[sGripStrip]
+ 
+✅[lGripStrip]
+ 
+🔲[restock-adapter-hollow-25-375-1]
+ 
+🔲[restock-adapter-skeletal-25-375-1]
+ 
+✔️[structuralPanel1]
+ 
+✔️[structuralPanel2]
+ 
+✔️[structuralIBeam2]
+ 
+✔️[structuralIBeam3]
+ 
+✔️[structuralIBeam1]
+ 
+✅[adapterEngines]
+ 
+✔️[trussAdapter]
+ 
+✔️[restock-truss-hub-1]
+ 
+✔️[trussPiece1x]
+ 
+✔️[trussPiece3x]
+ 
+✔️[restock-truss-3]
+ 
+✔️[restock-truss-adapter-0625-1]
+ 
+✔️[strutOcto]
+ 
+🔲[largeAdapter]
+ 
+🔲[largeAdapter2]
+ 
+✔️[stationHub]
+ 
+✅[smallHardpoint]
+ 
+✔️[Triangle0]
+ 
+✔️[Triangle1]
+ 
+✔️[Triangle1p5]
+ 
+✔️[Triangle2]
+ 
+✔️[Panel0]
+ 
+✔️[Panel1]
+ 
+✔️[Panel1p5]
+ 
+✔️[Panel2]
+ 
+✔️[EquiTriangle0]
+ 
+✔️[EquiTriangle1]
+ 
+✔️[EquiTriangle1p5]
+ 
+✔️[EquiTriangle2]
+ 
+✅[Mk1FuselageStructural]
+ 
+✅[structuralPylon]
+ 
+✔️[Tube1]
+ 
+✔️[Tube1p5]
+ 
+✔️[Tube2]
+ 
+✔️[Tube3]
+ 
+✔️[Tube4]
+ 
+✔️[structuralMiniNode]
+ 
+✔️[launchClamp1]
+ 
+✔️[stackTriCoupler_v2]
+ 
+✔️[stackBiCoupler_v2]
+ 
+✔️[adapterLargeSmallBi]
+ 
+✔️[stackQuadCoupler]
+ 
+✔️[adapterLargeSmallTri]
+ 
+✔️[adapterLargeSmallQuad]
+ 
 
-✔️	**BZ-52 Radial Attachment Point**						[stackPoint1]
+</details>
+<details>
+<summary>✔️▌ R O B O T I C S ▐</summary>
 
-✔️	**BZ-78 Radial Attachment Point**						[restock-node-1875-1]
+### 22/22
 
-✔️	**Cubic Octogonal Strut**								[strutCube]
-
-✔️	**EAS-4 Strut Connector**								[strutConnector]
-
-🔲	**FL-A10 Adapter**										[adapterSmallMiniTall]
-
-🔲	**FL-A5 Adapter**										[adapterSmallMiniShort]
-
-🔲	**FL-XA15 Adapter**										[restock-adapter-1875-125-1]
-
-🔲	**FL-XA30 Adapter**										[restock-adapter-1875-25-1]	
-		
---	_GP-004 Grip Pad_										[sGripPad]
-
---	_GP-036 Grip Pad_										[mGripPad]
-
---	_GP-156 Grip Pad_										[lGripPad]
-
---	_GPS-025 Grip Strip_									[sGripStrip]
-
---	_GPS-156 Grip Strip_									[lGripStrip]
-
-🔲	**Kerbodyne ADTP-2-3A**									[restock-adapter-hollow-25-375-1]
-
-🔲	**Kerbodyne SKLE-2-3**									[restock-adapter-skeletal-25-375-1]
-
-✔️	**M-1x1 Structural Panel**								[structuralPanel1]
-
-✔️	**M-2x2 Sturctural Panel**								[structuralPanel2]
-
-✔️	**M-Beam 200 I-Beam**									[structuralIBeam2]
-
-✔️	**M-Beam 200 I-Beam Pocket Edition**					[structuralIBeam3]
-
-✔️	**M-Beam 650 I-Beam**									[structuralIBeam1]
-
---	_Mk3 Engine Mount_									[adapterEngines]
-
-✔️	**Modular Girder Adapter**								[trussAdapter]
-
-✔️	**Modular Girder Hub**									[restock-truss-hub-1]
-
-✔️	**Modular Girder Segment**								[trussPiece1x]
-
-✔️	**Modular Girder Segment XL**							[trussPiece3x]
-
-✔️	**Modular Girder Segment XXL**							[restock-truss-3]
-
-✔️	**Modular Girder Small Adapter**						[restock-truss-adapter-0625-1]
-
-✔️	**Octogonal Strut**										[strutOcto]
-
-🔲	**Rockomax Brand Adapter**								[largeAdapter]
-
-🔲	**Rockomax Brand Adapter 02**							[largeAdapter2]
-
-✔️	**Rockomax HubMax Multi-Point Connector**				[stationHub]
-
-✅	_Small Hardpoint_										[smallHardpoint]
-
-✅	**SP-R06 Structural Panel**								[Triangle0]
-
-✅	**SP-R12 Structural Panel**								[Triangle1]
-
-✅	**SP-R18 Structural Panel**								[Triangle1p5]
-
-✅	**SP-R25 Structural Panel**							[Triangle2]
-
-✅	**SP-S06 Structural Panel**								[Panel0]
-
-✅	**SP-S12 Structural Panel**								[Panel1]
-
-✅	**SP-S18 Structural Panel**								[Panel1p5]
-
-✅	**SP-S25 Structural Panel**								[Panel2]
-
-✅	**SP-T06 Structural Panel**							[EquiTriangle0]
-
-✅	**SP-T12 Structural Panel**								[EquiTriangle1]
-
-✅	**SP-T18 Structural Panel**								[EquiTriangle1p5]
-
-✅	**SP-T25 Structural Panel**								[EquiTriangle2]
-
--- 	_Structural Fuselage_									[Mk1FuselageStructural]
-
-✅	_Structural Pylon_									[structuralPylon]
-
-✔️	**T-12 Structural Tube**								[Tube1]
-
-✔️	**T-18 Structural Tube**								[Tube1p5]
-
-✔️	**T-25 Structural Tube**								[Tube2]
-
-✔️	**T-37 Structural Tube**								[Tube3]
-
-✔️	**T-50 Structural Tube**								[Tube4]
-
-✔️	**The Not-Rockomax Micronode**							[structuralMiniNode]
-
-🔲    **TT18-A Launch Stability Enhancer**					[launchClamp1]
-
-✔️	**TVR-1180C Mk1 Stack Tri-Coupler**						[stackTriCoupler_v2]
-
-✔️	**TVR-200 Stack Bi-Coupler**							[stackBiCoupler_v2]
-
-✔️	**TVR-200L Stack Bi-Adapter**							[adapterLargeSmallBi]
-
-✔️	**TVR-2160C Mk2 Stack Quad-Coupler**					[stackQuadCoupler]
-
-✔️	**TVR-300L Stack Tri-Adapter**							[adapterLargeSmallTri]
-
-✔️	**TVR-400L Stack Quad-Adapter**							[adapterLargeSmallQuad]
+✅[piston_02]
+ 
+✅[piston_04]
+ 
+✅[piston_01]
+ 
+✅[piston_03]
+ 
+✅[rotor_01]
+ 
+✅[rotor_01s]
+ 
+✅[rotor_02]
+ 
+✅[rotor_02s]
+ 
+✅[rotor_03]
+ 
+✅[rotor_03s]
+ 
+✅[hinge_01_s]
+ 
+✅[hinge_03_s]
+ 
+✅[hinge_01]
+ 
+✅[hinge_03]
+ 
+✅[hinge_04]
+ 
+✅[controller1000]
+ 
+✅[RotorEngine_02]
+ 
+✅[RotorEngine_03]
+ 
+✅[rotoServo_02]
+ 
+✅[rotoServo_00]
+ 
+✅[rotoServo_03]
+ 
+✅[rotoServo_04]
+ 
 
 </details>
 <details>
@@ -530,111 +592,113 @@ ________________________________________________________________________________
 
 ### 32/32
 
-✔️❗	**Advanced Grabbing Unit**								[GrapplingDevice]
-
-✔️❗	**Advanced Grabbing Unit Jr.**							[smallClaw]
-
-✔️	**Clamp-O-Tron Docking Port**							[dockingPort2]
-
-✔️	**Clamp-O-Tron Docking Port 'Grande'**					[restock-docking-375-1]
-
-✔️	**Clamp-O-Tron Docking Port Jr.**						[dockingPort3]
-
-✔️	**Clamp-O-Tron Docking Port Sr.**						[dockingPortLarge]
-
-✔️	**Clamp-O-Tron Shielded Docking Port**					[dockingPort1]
-
-✔️	**EP-12 Engine Plate**									[EnginePlate5]
-
-✔️	**EP-18 Engine Plate**									[EnginePlate1p5]
-
-✔️	**EP-25 Engine Plate**									[EnginePlate2]
-
-✔️	**EP-37 Engine Plate**									[EnginePlate3]
-
-✔️	**EP-50 Engine Plate**									[EnginePlate4]
-
-✔️	**Hydraulic Detachment Manifold**						[radialDecoupler1-2]
-
-✔️	**Inflatable Airlock**									[InflatableAirlock]
-
-✔️	**Inline Clamp-O-Tron**									[dockingPortLateral]
-
-✔️	**MK2 Clamp-O-Tron**									[mk2DockingPort]
-
-✔️	**Size 1.5 Decoupler**									[Size1p5_Strut_Decoupler]
-
-✔️	**TD-06 Decoupler**						 				[Decoupler_0]
-
-✔️	**TD-12 Decoupler**						 				[Decoupler_1]
-
-✔️	**TD-18 Decoupler**			 			 			[Decoupler_1p5]
-
-✔️	**TD-25 Decoupler**						 				[Decoupler_2]
-
-✔️	**TD-37 Decoupler**										[Decoupler_3]
-
-✔️	**TD-50 Decoupler**										[Decoupler_4]
-
-✔️	**TS-06 Stack Separator**								[Separator_0]
-
-✔️	**TS-12 Stack Separator**								[Separator_1]
-
-✔️	**TS-18 Stack Separator**								[Separator_1p5]
-
-✔️	**TS-25 Stack Separator**								[Separator_2]
-
-✔️	**TS-37 Stack Separator**								[Separator_3]
-
-✔️	**TS-50 Stack Separator**								[Separator_4]
-
-✔️	**TT-14 Radial Decoupler**								[restock-decoupler-radial-tiny-1]
-
-✔️	**TT-38K Radial Decoupler**								[radialDecoupler]
-
-✔️	**TT-70 Radial Decoupler**								[radialDecoupler2]
+✔️❗[GrapplingDevice]
+ 
+✔❗[smallClaw]
+ 
+✔️[dockingPort2]
+ 
+✔️[restock-docking-375-1]
+ 
+✔️[dockingPort3]
+ 
+✔️[dockingPortLarge]
+ 
+✔️[dockingPort1]
+ 
+✔️[EnginePlate5]
+ 
+✔️[EnginePlate1p5]
+ 
+✔️[EnginePlate2]
+ 
+✔️[EnginePlate3]
+ 
+✔️[EnginePlate4]
+ 
+✔️[radialDecoupler1-2]
+ 
+✔️[InflatableAirlock]
+ 
+✔️[dockingPortLateral]
+ 
+✔️[mk2DockingPort]
+ 
+✔️[Size1p5_Strut_Decoupler]
+ 
+✔️[Decoupler_0]
+ 
+✔️[Decoupler_1]
+ 
+✔️[Decoupler_1p5]
+ 
+✔️[Decoupler_2]
+ 
+✔️[Decoupler_3]
+ 
+✔️[Decoupler_4]
+ 
+✔️[Separator_0]
+ 
+✔️[Separator_1]
+ 
+✔️[Separator_1p5]
+ 
+✔️[Separator_2]
+ 
+✔️[Separator_3]
+ 
+✔️[Separator_4]
+ 
+✔️[restock-decoupler-radial-tiny-1]
+ 
+✔️[radialDecoupler]
+ 
+✔️[radialDecoupler2]
+ 
 
 </details>
 <details>
 <summary>✔️▌ P A Y L O A D ▐</summary>
 
-### 12/12
+### 18/18
 
-✔️❗	**AE-FF0 Airstream Protective Shell**					[restock-fairing-base-0625-1]
-
-✔️❗	**AE-FF1 Airstream Protective Shell**					[fairingSize1]
-
-✔️❗	**AE-FF1.5 Airstream Protective Shell**					[fairingSize1p5]
-
-✔️❗	**AE-FF2 Airstream Protective Shell**					[fairingSize2]
-
-✔️❗	**AE-FF3 Airstream Protective Shell**					[fairingSize3]
-
-✔️❗	**AE-FF5 Airstream Protective Shell**					[fairingSize4]
-
---	_Mk2 Cargo Bay CRG-04_								[mk2CargoBayS]
-
---	_Mk2 Cargo Bay CRG-08_								[mk2CargoBayL]
-
---	_Mk3 Cargo Bay CRG-100_								[mk3CargoBayL]
-
---	_Mk3 Cargo Bay CRG-25_								[mk3CargoBayS]
-
---	_Mk3 Cargo Bay CRG-50_								[mk3CargoBayM]
-
---	_Mk3 Cargo Ramp_										[mk3CargoRamp]
-
-✔️	**Service Bay (1.25m)**									[ServiceBay_125_v2]
-
-✔️	**Service Bay (1.875m)**								[restock-service-bay-1875-1]
-
-✔️	**Service Bay (2.5m)**									[ServiceBay_250_v2]
-
-✔️	**SM-18 Service Module**								[ServiceModule18]
-
-✔️	**SM-25 Service Module**								[ServiceModule25]
-
-✔️	**SM-6A Service Module**								[Size1to0ServiceModule]
+✔️❗[restock-fairing-base-0625-1]
+ 
+✔️❗[fairingSize1]
+ 
+✔️❗[fairingSize1p5]
+ 
+✔️❗[fairingSize2]
+ 
+✔️❗[fairingSize3]
+ 
+✔️❗[fairingSize4]
+ 
+✅[mk2CargoBayS]
+ 
+✅[mk2CargoBayL]
+ 
+✅[mk3CargoBayL]
+ 
+✅[mk3CargoBayS]
+ 
+✅[mk3CargoBayM]
+ 
+✅[mk3CargoRamp]
+ 
+✔️[ServiceBay_125_v2]
+ 
+✔️[restock-service-bay-1875-1]
+ 
+✔️[ServiceBay_250_v2]
+ 
+✔️[ServiceModule18]
+ 
+✔️[ServiceModule25]
+ 
+✔️[Size1to0ServiceModule]
+ 
 
 
 </details>
@@ -643,184 +707,198 @@ ________________________________________________________________________________
 
 ### 4/4
 
-✔️	**SEQ-24 Cargo Storage Unit**			[CargoStorageUnit]
+✔️[CargoStorageUnit]
  
-✔️	**SEQ-3 Cargo Storage Unit**			[smallCargoContainer]
-
-✔️	**SEQ-3C Conformal Storage Unit**		[cargoContainer]
-
-✔️	**SEQ-9 Cargo Storage Unit**			[ConformalStorageUnit]
+✔️[cargoContainer]
+ 
+✔️[smallCargoContainer]
+ 
+✔️[ConformalStorageUnit]
+ 
 
 </details>
 <details>
 <summary>✔️▌ A E R O ▐</summary>
 
-### 13/13 
+### 70/70
 
---	_A.I.R.B.R.A.K.E.S._									[airbrake1]
-
---	_Adjustable Ramp Intake_								[ramAirIntake]
-
---	_Adjustable Ramp Intake (Radial)_						[IntakeRadialLong]
-
---	_Advanced Canard	_									[AdvancedCanard]
-
-✔️	**Advanced Nose Cone - Type A**							[pointyNoseConeA]
-
-✔️	**Advanced Nose Cone - Type B**						[pointyNoseConeB]
-
-✔️	**Aeroynamic Nose Cone**								[noseCone]
-
-✔️	**AV-R8 Winglet**										[R8winglet]
-
-✔️	**AV-T1 Winglet**										[winglet]
-
-✔️	**Basic Fin**											[basicFin]
-
---	_Big-S Delta Wing_								[wingShuttleDelta]
-
-✔️	**Delta-Deluxe Winglet**							[winglet3]
-
---	_Elevon 1_											[StandardCtrlSrf]
-
---	_Elevon 2_											[elevon2]
-
---	_Elevon 3_											[elevon3]
-
---	_Elevon 4_											[smallCtrlSrf]
-
---	_Elevon 5_											[elevon5]
-
--- 	_Engine Nacelle_										[nacelleBody]	
-
---	_Engine Pre-Cooler_									[radialEngineBody]
-
---	_FAT-455 Aeoroplane Control Surface_					[airlinerCtrlSrf]
-
---	_FAT-455 Aeoroplane Main Wing_						[airlinerMainWing]
-
---	_FAT-455 Aeoroplane Tail Fin_							[airlinerTailFin]
-
---	_Helicopter Blade Type A_								[smallHeliBlade]
-
---	_Helicopter Blade Type B_								[mediumHeliBlade]
-
---	_Helicopter Blade Type S_								[largeHeliBlade]
-
-✔️	**Miniature Rocket Nose**							[restock-nosecone-0625-1]
-
---	_Mk1 Diverterless Supersonic Intake_					[MK1IntakeFuselage]
-
---	_Propeller Blade Type A_							[smallPropeller]
-
---	_Propeller Blade Type B_								[mediumPropeller]
-
---	_Propeller Blade Type S_								[largePropeller]
-
-✔️	**Protective Rocket Nose Cone Mk12A**					[rocketNoseConeSize3]
-
-✔️	**Protective Rocket Nose Cone Mk16A**					[rocketNoseConeSize4]
-
-✔️	**Protective Rocket Nose Cone Mk7**					[rocketNoseCone_v3]
-
-✔️	**Protective Rocket Nose Cone Mk5A**					[Size_1_5_Cone]
-
---	_R-062 Ducted Fan Blade_							[smallFanBlade]
-
---	_R-12 Ducted Fan Blade_								[mediumFanBlade]
-
---	_R-25 Ducted Fan Blade_								[largeFanBlade]
-
---	_S-062 Fan Shroud_									[FanShroud_01]
-
---	_S-12 Fan Shroud_									[FanShroud_02]
-
---	_S-25 Fan Shroud_									[FanShroud_03]	
-										
---	_Shock Cone Intake_									[shockConeIntake]
-
---	_Small Circular Intake_								[miniIntake]
-
---	_Small Delta Wing_									[delta_small]
-
-✔️	**Small Nose Cone**									[standardNoseCone]
-
---	_Standard Canard_									[CanardController]
-
---	_Structural Wing Type A_								[structuralWing]
-
---	_Structural Wing Type B	_							[structuralWing2]
-
---	_Structural Wing Type C_								[structuralWing3]
-
---	_Structural Wing Type D_								[structuralWing4]
-
---	_Swept Wing Type A_									[sweptWing1]
-
---	_Swept Wing Type B_									[sweptWing2]
-
---	_Swept Wings_											[sweptWing]
-
---	_Tail Connecter A_									[airplaneTail]
-
---	_Tail Connecter B_									[airplaneTailB]
-
---	_Tail Fin_											[tailfin]
-
---	_Tiny Nosecone_									[noseconeTiny]
-
---	_Very Small Nosecone_									[noseconeVS]
-
---	_Wing Connector Type A_								[wingConnector]
-
---	_Wing Connector Type B_								[wingConnector2]
-		
---	_Wing Connector Type C_								[wingConnector3]
-		
---	_Wing Connector Type D_								[wingConnector4]
-		
---	_Wing Connector Type E_								[wingConnector5]
-
---	_Wing Strake_											[wingStrake]
-
---	_XM-G50 Radial Air Intake_							[airScoop]
-
+✅[airbrake1]
+ 
+✅[ramAirIntake]
+ 
+✅[IntakeRadialLong]
+ 
+✅[AdvancedCanard]
+ 
+✔️[pointyNoseConeA]
+ 
+✔️[pointyNoseConeB]
+ 
+✔️[noseCone]
+ 
+✔️[R8winglet]
+ 
+✔️[winglet]
+ 
+✔️[basicFin]
+ 
+✅[wingShuttleDelta]
+ 
+✅[wingShuttleElevon1]
+ 
+✅[wingShuttleElevon2]
+ 
+✅[wingShuttleRudder]
+ 
+✅[wingShuttleStrake]
+ 
+✅[CircularIntake]
+ 
+✅[deltaWing]
+ 
+✔️[winglet3]
+ 
+✅[StandardCtrlSrf]
+ 
+✅[elevon2]
+ 
+✅[elevon3]
+ 
+✅[smallCtrlSrf]
+ 
+✅[elevon5]
+ 
+✅[nacelleBody]
+ 
+✅[radialEngineBody]
+ 
+✅[airlinerCtrlSrf]
+ 
+✅[airlinerMainWing]
+ 
+✅[airlinerTailFin]
+ 
+✅[smallHeliBlade]
+ 
+✅[mediumHeliBlade]
+ 
+✅[largeHeliBlade]
+ 
+✔️[restock-nosecone-0625-1]
+ 
+✅[MK1IntakeFuselage]
+ 
+✅[smallPropeller]
+ 
+✅[mediumPropeller]
+ 
+✅[largePropeller]
+ 
+✔️[rocketNoseConeSize3]
+ 
+✔️[rocketNoseConeSize4]
+ 
+✔️[rocketNoseCone_v3]
+ 
+✔️[Size_1_5_Cone]
+ 
+✅[smallPropeller]
+ 
+✅[mediumFanBlade]
+ 
+✅[largeFanBlade]
+ 
+✅[FanShroud_01]
+ 
+✅[FanShroud_02]
+ 
+✅[FanShroud_03]
+ 
+✅[shockConeIntake]
+ 
+✅[miniIntake]
+ 
+✅[delta_small]
+ 
+✔️[standardNoseCone]
+ 
+✅[CanardController]
+ 
+✅[structuralWing]
+ 
+✅[structuralWing2]
+ 
+✅[structuralWing3]
+ 
+✅[structuralWing4]
+ 
+✅[sweptWing1]
+ 
+✅[sweptWing2]
+ 
+✅[sweptWing]
+ 
+✅[airplaneTail]
+ 
+✅[airplaneTailB]
+ 
+✅[tailfin]
+ 
+✅[noseconeTiny]
+ 
+✅[noseconeVS]
+ 
+✅[wingConnector]
+ 
+✅[wingConnector2]
+ 
+✅[wingConnector3]
+ 
+✅[wingConnector4]
+ 
+✅[wingConnector5]
+ 
+✅[wingStrake]
+ 
+✅[airScoop]
+ 
 
 </details>
 <details>
 <summary>▌ G R O U N D ▐</summary>
 
-### 0/8
+### 0/15
 
-🔲	**LT-05 Micro Landing Strut**							[miniLandingLeg]
-
-🔲	**LT-1 Landing Struts**									[landingLeg1]
-
-🔲	**LT-2 Landing Strut**									[landingLeg1-2]
-
-❓	_LY-01 Fixed Landing Gear_							[GearFixed]
-
-❓	_LY-05 Steerable Landing Gear_						[GearFree]
-
-❓	_LY-10 Small Landing Gear_						[SmallGearBay]
-
-❓	_LY-35 Medium Landing Gear_							[GearSmall]
-
-❓	_LY-60 Large Landing Gear_							[GearMedium]
-
-❓	_LY-99 Extra Large Landing Gear_						[GearLarge]
-
-🔲	**RoveMax M1-F Rover Wheel**							[roverWheelM1-F]
-
-🔲❗️	**RoveMax Model M1**									[roverWheel1]
-
-🔲❗️	**RoveMax Model S2**									[roverWheel2]
-
-🔲 	**RoveMax Model S2-T**									[restock-wheel-1-T]
-
-❓	_RoveMax Model XL3_									[restock-wheel-1-T]
-
-🔲❗️	**TR-2L Ruggedized Vehicular Wheel**					[wheelMed]
+🔲[miniLandingLeg]
+ 
+🔲[landingLeg1]
+ 
+🔲[landingLeg1-2]
+ 
+🔲[GearFixed]
+ 
+🔲[GearFree]
+ 
+🔲[SmallGearBay]
+ 
+🔲[GearSmall]
+ 
+🔲[GearMedium]
+ 
+🔲[GearLarge]
+ 
+🔲[roverWheelM1-F]
+ 
+🔲[roverWheel1]
+ 
+🔲[roverWheel2]
+ 
+🔲[restock-wheel-1-T]
+ 
+🔲[roverWheel3]
+ 
+🔲[wheelMed]
+ 
 
 </details>
 <details>
@@ -828,29 +906,30 @@ ________________________________________________________________________________
 
 ### 12/12
 
-✔️	**Heat Shield (0.625m)**								[HeatShield0]
-
-✔️	**Heat Shield (1.25m)**									[HeatShield1]
-
-✔️	**Heat Shield (1.875m)**								[HeatShield1p5]
-
-✔️	**Heat Shield (10m)**									[InflatableHeatShield]
-
-✔️	**Heat Shield (2.5m)**									[HeatShield2]
-
-✔️	**Heat Shield (3.75m)**									[HeatShield3]
-
-✔️	**Radiatior Panel (edge)**								[radPanelEdge]
-
-✔️	**Radiatior Panel (large)**							[radPanelLg]	
-
-✔️	**Radiatior Panel (small)**								[radPanelSm]
-
-✔️	**Thermal Control System (large)**						[foldingRadLarge]
-
-✔️	**Thermal Control System (medium)**						[foldingRadMed]
-
-✔️	**Thermal Control System (small)**						[foldingRadSmall]
+✔️[HeatShield0]
+ 
+✔️[HeatShield1]
+ 
+✔️[HeatShield1p5]
+ 
+✔️[InflatableHeatShield]
+ 
+✔️[HeatShield2]
+ 
+✔️[HeatShield3]
+ 
+✔️[radPanelEdge]
+ 
+✔️[radPanelLg]
+ 
+✔️[radPanelSm]
+ 
+✔️[foldingRadLarge]
+ 
+✔️[foldingRadMed]
+ 
+✔️[foldingRadSmall]
+ 
 
 </details>
 <details>
@@ -858,49 +937,50 @@ ________________________________________________________________________________
 
 ### 22/22
 
-✔️ 	**Fuel Cell**												[FuelCell]
-
-✔️ 	**Fuel Cell Array**											[FuelCellArray]
-
-✔️	**Gigantor XL Solar Array**											[largeSolarPanel]
-
-✔️	**NH-24 Monopropellant APU**										[restock-apu-radial-1]
-
-✔️	**OX-10C Photovoltaic Panels**										[solarPanelOX10C]
-
-✔️	**OX-10L 1x5 Photovoltaic Panels**										[solarPanelOX10L]
-
-✔️	**OX-4 1x6 Photovoltaic Panels**										[solarPanels4]
-
-✔️	**OX-4W 3x2 Photovoltaic Panels**										[solarPanels3]
-
-✔️	**OX-STAT Photovoltaic Panels**										[solarPanels5]
-
-✔️	**OX-STAT-XL Photovoltaic Panels**										[LgRadialSolarPanel]
-
-✔️	**PB-NUK Radioisotope Thermoelectric Generator**								[rtg]
-
-✔️	**SP-10C Photovoltaic Panels**										[solarPanelSP10C]
-
-✔️	**SP-10L 1x5 Photovoltaic Panels**										[solarPanelSP10L]
-
-✔️	**SP-L 1x6 Photovoltaic Panels**										[solarPanels2]
-
-✔️	**SP-W 3x2 Photovoltaic Panels**										[solarPanels1]
-
-✔️	**Z-100 Rechargable Battery Pack**										[batteryPack]
-
-✔️	**Z-10K Rechargable Battery Bank**										[restock-battery-375-1]
-
-✔️	**Z-1K Rechargable Battery Bank**										[batteryBank]
-
-✔️	**Z-2.5K Rechargable Battery Bank**									[restock-battery-1875-1]
-
-✔️	**Z-200 Rechargable Battery Bank**										[batteryBankMini]
-
-✔️	**Z-400 Rechargable Battery**										[ksp_r_largeBatteryPack]
-
-✔️	**Z-4K Rechargable Battery Bank**										[batteryBankLarge]
+✔️[FuelCell]
+ 
+✔️[FuelCellArray]
+ 
+✔️[largeSolarPanel]
+ 
+✔️[restock-apu-radial-1]
+ 
+✔️[solarPanelOX10C]
+ 
+✔️[solarPanelOX10L]
+ 
+✔️[solarPanels4]
+ 
+✔️[solarPanels3]
+ 
+✔️[solarPanels5]
+ 
+✔️[LgRadialSolarPanel]
+ 
+✔️[rtg]
+ 
+✔️[solarPanelSP10C]
+ 
+✔️[solarPanelSP10L]
+ 
+✔️[solarPanels2]
+ 
+✔️[solarPanels1]
+ 
+✔️[batteryPack]
+ 
+✔️[restock-battery-375-1]
+ 
+✔️[batteryBank]
+ 
+✔️[restock-battery-1875-1]
+ 
+✔️[batteryBankMini]
+ 
+✔️[ksp_r_largeBatteryPack]
+ 
+✔️[batteryBankLarge]
+ 
 
 </details>
 <details>
@@ -908,135 +988,139 @@ ________________________________________________________________________________
 
 ### 12/12
 
-✔️	**Communotron 16**	[longAntenna]
+✔️[longAntenna]
+ 
+✔️[SurfAntenna]
+ 
+✔️[commDish]
+ 
+✔️[restock-antenna-stack-2]
+ 
+✔️[mediumDishAntenna]
+ 
+✔️[HighGainAntenna]
+ 
+✔️[restock-antenna-stack-3]
+ 
+✔️[restock-relay-radial-2_v2]
+ 
+✔️[HighGainAntenna5_v2]
+ 
+✔️[RelayAntenna100]
+ 
+✔️[RelayAntenna50]
+ 
+✔️[RelayAntenna5]
+ 
 
-✔️	**Communotron 16-S**	[SurfAntenna]
-
-✔️	**Communotron 88-88**	[commDish]
-
-✔️	**Communotron DTS-J1**	[restock-antenna-stack-2]
-
-✔️	**Communotron DTS-M1**	[mediumDishAntenna]
-
-✔️	**Communotron HG-55**	[HighGainAntenna]
-
-✔️	**Communotron HG-61**	[restock-antenna-stack-3]
-
-✔️	**HG-20 High Gain Antenna**		[restock-relay-radial-2_v2]
-
-✔️	**HG-5 High Gain Antenna**	[HighGainAntenna5_v2]
-
-✔️	**RA-100 Relay Antenna**	[RelayAntenna100]
-
-✔️	**RA-15 Relay Antenna**	[RelayAntenna50]
-
-✔️	**RA-2 Relay Antenna**	[RelayAntenna5]
 </details>
 <details>
 <summary>✔️▌ S C I E N C E ▐</summary>
 
 ### 20/20
 
-✔️	**2HOT Thermometer**			[sensorThermometer]
-
-✔️	**Atmospheric Fluid Spectro-Variometer**			[sensorAtmosphere]
-
-✔️	**CRSY Light Scanning Arm**			[RobotArmScanner_S1]
-
-✔️	**Double-C Seismic Accelerometer**			[sensorAccelerometer]
-
-✔️	**Experimental Return Unit**			[restock-sciencebox-stack-1]
-
-✔️	**Experiment Storage Unit**			[ScienceBox]
-
-✔️	**GRAVMAX Negative Gravioli Detector**			[sensorGravimeter]
-
-✔️	**M4435 Narrow-Band Scanner**			[OrbitalScanner]
-
-✔️	**M700 Survey Scanner**			[SurveyScanner]
-
-✔️	**Magnetometer Boom**			[Magnetometer]
-
-✔️	**Mobile Processing Lab MPL-LG-2**			[Large_Crewed_Lab]
-
-✔️	**MysteryGoo™ Containment Unit**			[GooExperiment]
-
-✔️	**MysteryGoo™ Inline Containment Unit**			[restock-goocanister-625-1]
-
-✔️	**OP-E Large Scanning Arm**			[RobotArmScanner_S3]
-
-✔️	**PresMat Barometer**			[sensorBarometer]
-
-✔️	**SC-9001 Science Jr**			[science_module]
-
-✔️	**SC-9001R Radial Science Jr**			[restock-materialbay-radial-1]
-
-✔️	**SENTINEL Infared Telescope**			[InfraredTelescope]
-
-✔️	**SPRT Medium Scanning Arm**			[RobotArmScanner_S2]
-
-✔️	**Surface Scanning Module**			[SurfaceScanner]
+✔️[sensorThermometer]
+ 
+✔️[sensorAtmosphere]
+ 
+✅[RobotArmScanner_S1]
+ 
+✔️[sensorAccelerometer]
+ 
+✔️[restock-sciencebox-stack-1]
+ 
+✔️[ScienceBox]
+ 
+✔️[sensorGravimeter]
+ 
+✔️[OrbitalScanner]
+ 
+✔️[SurveyScanner]
+ 
+✔️[Magnetometer]
+ 
+✔️[Large_Crewed_Lab]
+ 
+✔️[GooExperiment]
+ 
+✔️[restock-goocanister-625-1]
+ 
+✅[RobotArmScanner_S3]
+ 
+✔️[sensorBarometer]
+ 
+✔️[science_module]
+ 
+✔️[restock-materialbay-radial-1]
+ 
+✔️[InfraredTelescope]
+ 
+✅[RobotArmScanner_S2]
+ 
+✔️[SurfaceScanner]
+ 
 
 </details>
 <details>
-<summary>▌ U T I L I T Y ▐</summary>
+<summary>✔️▌ U T I L I T Y ▐</summary>
 
-### 17/23 
+### 28/28
 
-🔲	**Convert-O-Tron 125**			[MiniISRU]
-
-🔲	**Convert-O-Tron 250**			[ISRU]
-
-✔️	**Domelight Mk1**				[domeLight1]
-
-🔲	**'Drill-o-matic Junior' Mining Excavator**	[MiniDrill]
-
-🔲	**'Drill-o-matic' Mining Excavator**	[RadialDrill]
-
-✔️	**Illuminator Mk1**			[spotLight1_v2]
-
-✔️	**Illuminator Mk2**			[spotLight2_v2]
-
-✔️❗️❗️	**Kelus Mobility Enhancer**			[telescopicLadder]
-
-✔️❗️	**Kelus-LV Bay Mobility Enhancer**		[telescopicLadderBay]
-
-🔲	**Launch Escape System**			[LaunchEscapeSystem]
-
-🔲	**Launch Escape System Jr.**		[restock-engine-les-2]
-
-✔️	**Lightstrip Mk1**				[stripLight1]
-
---	_Mk1 Crew Cabin_				[MK1CrewCabin]
-
-✔️	**Mk12-R Radial-Mount Drogue Chute**	[radialDrogue]
-
-✔️	**Mk16 Parachute**				[parachuteSingle]
-
-✔️	**Mk16-XL Parachute**			[parachuteLarge]
-
---	_Mk2 Crew Cabin_				[mk2CrewCabin]
-
-✔️	**Mk25 Parachute**				[parachuteDrogue]
-
-✔️	**Mk2-R Radial-Mount Parachute**		[parachuteRadial]
-
---	_Mk3 Passenger Module_			[mk3CrewCabin]
-
-✔️	**Navigation Light Mk1**			[navLight1]
-
-✔️	**Pegasus I Mobility Enhancer**		[ladder1]
-
-✔️	**Pegasus II Mobility Enhancer**		[restock-ladder-static-2]
-
-✔️	**Pegasus III Mobility Enhancer**		[restock-ladder-static-3]
-
-✔️	**PPD-10 Hitchhiker Storage Container**	[crewCabin]
-
-✔️	**Spotlight Mk1**				[spotLight3]
-
-✅	_Starshot-32_			[fireworksLauncherBig]
-
-✅	_Starshot-8_			[fireworksLauncherSmall]
+✔️[MiniISRU]
+ 
+✔️[ISRU]
+ 
+✔️[domeLight1]
+ 
+✔️[MiniDrill]
+ 
+✔️[RadialDrill]
+ 
+✔️[spotLight1_v2]
+ 
+✔️[spotLight2_v2]
+ 
+✔️[telescopicLadder]
+ 
+✔️[telescopicLadderBay]
+ 
+✔️[LaunchEscapeSystem]
+ 
+✔️[restock-engine-les-2]
+ 
+✔️[stripLight1]
+ 
+✅[MK1CrewCabin]
+ 
+✔️[radialDrogue]
+ 
+✔️[parachuteSingle]
+ 
+✔️[parachuteLarge]
+ 
+✅[mk2CrewCabin]
+ 
+✔️[parachuteDrogue]
+ 
+✔️[parachuteRadial]
+ 
+✅[mk3CrewCabin]
+ 
+✔️[navLight1]
+ 
+✔️[ladder1]
+ 
+✔️[restock-ladder-static-2]
+ 
+✔️[restock-ladder-static-3]
+ 
+✔️[crewCabin]
+ 
+✔️[spotLight3]
+ 
+✔️[fireworksLauncherBig]
+ 
+✔️[fireworksLauncherSmall]
+ 
 
 </details>
